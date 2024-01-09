@@ -1,0 +1,1757 @@
+{
+	"kind": "youtube#videoListResponse",
+	"etag": "C-WTESdoEOApu5F8ix2z-qhSUJI",
+	"items": [
+		{
+			"kind": "youtube#video",
+			"etag": "qo0if2eldnK9r9LM9QmVwCbH20w",
+			"id": "HE6P2HDYlZs",
+			"snippet": {
+				"publishedAt": "2024-01-08T04:27:30Z",
+				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
+				"title": "Will Ferrell & Kristen Wiig Present Male Actor – Motion Picture Musical/Comedy I 81st Golden Globes",
+				"description": "Will Ferrell & Kristen Wiig present Best Performance by a Male Actor in a Motion Picture – Musical or Comedy category at the 81st Annual Golden Globe Awards. #GoldenGlobes #WillFerrell #KristenWiig\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Golden Globes",
+				"tags": [
+					"Golden Globe Awards",
+					"Golden Globe Awards 2024",
+					"81st Golden Globe Awards",
+					"Jo Koy",
+					"The Beverly Hilton",
+					"CBS",
+					"Red Carpet",
+					"Dick Clark Productions",
+					"Eldridge Industries",
+					"Hollywood interviews",
+					"Cinema",
+					"Netflix",
+					"Movies",
+					"Film",
+					"Actress",
+					"Actor",
+					"Press",
+					"Association",
+					"Hollywood",
+					"2024 Nominees",
+					"Best Motion Picture",
+					"Best Performance",
+					"Best Director",
+					"Best Screeplay",
+					"Best Original Score",
+					"Best Original Song",
+					"Best Television Series",
+					"Barbenheimer",
+					"Will Ferrell",
+					"Kristen Wiig"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Will Ferrell & Kristen Wiig Present Male Actor – Motion Picture Musical/Comedy I 81st Golden Globes",
+					"description": "Will Ferrell & Kristen Wiig present Best Performance by a Male Actor in a Motion Picture – Musical or Comedy category at the 81st Annual Golden Globe Awards. #GoldenGlobes #WillFerrell #KristenWiig\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "TIOeCS_1ipuH7sqBZkEY7SONuHk",
+			"id": "YbO9Vddn0FI",
+			"snippet": {
+				"publishedAt": "2024-01-08T17:00:07Z",
+				"channelId": "UCBgOGeH-NL4o2WGutwverqQ",
+				"title": "NBA YoungBoy on Fatherhood, Personal Growth, Therapy, & More - The Bootleg Kev Podcast",
+				"description": "Interview w/ NBA Youngboy  on The Bootleg Kev Podcast. \n\nShot & Edited by @Only1Xiris & MSTFA. \n\nSponsored By Imperial Extractions: https://bit.ly/bootlegkev // promo code: BOOTLEG\n\nGet 50% off of KING PALM at www.kingpalm.com promo code \"BOOTLEG\"\n\nGet your first month of BLUECHEW for FREE, use the promo code \"Bootleg\" or click here: https://go.bluechew.com/bootleg\n\nSupport ODDSOX, go to: https://www.oddsoxofficial.com & use the promo code \"BOOTLEGKEV\" for 20% off at Check Out",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Bootleg Kev",
+				"tags": [
+					"Bootleg Kev",
+					"Bootleg Kev Podcast",
+					"Bootleg Kev Interview",
+					"Hip Hop",
+					"Rap",
+					"How to Interview",
+					"How to Interview Hip Hop",
+					"How to Interview Rappers",
+					"Rapper Interviews",
+					"Hip Hop Podcast",
+					"Rap Podcast",
+					"Music Podcast",
+					"Hip Hop Interview",
+					"nba youngboy",
+					"young boy",
+					"young boy never broke again"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en-US",
+				"localized": {
+					"title": "NBA YoungBoy on Fatherhood, Personal Growth, Therapy, & More - The Bootleg Kev Podcast",
+					"description": "Interview w/ NBA Youngboy  on The Bootleg Kev Podcast. \n\nShot & Edited by @Only1Xiris & MSTFA. \n\nSponsored By Imperial Extractions: https://bit.ly/bootlegkev // promo code: BOOTLEG\n\nGet 50% off of KING PALM at www.kingpalm.com promo code \"BOOTLEG\"\n\nGet your first month of BLUECHEW for FREE, use the promo code \"Bootleg\" or click here: https://go.bluechew.com/bootleg\n\nSupport ODDSOX, go to: https://www.oddsoxofficial.com & use the promo code \"BOOTLEGKEV\" for 20% off at Check Out"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "DL1835sT6DWgFJW0vyxHBdoUTJ8",
+			"id": "OEgvRelGfOs",
+			"snippet": {
+				"publishedAt": "2024-01-08T08:29:33Z",
+				"channelId": "UCjDsbbzHgTrGc4Ff26TJtsA",
+				"title": "2024 Golden Globes RECAP: Viral Memes & Must-See Moments! | 2024 Golden Globes",
+				"description": "From Kylie Jenner and Timothée Chalamet packing on the PDA to Taylor Swift and Selena Gomez sharing secrets, here’s everything missed at the 2024 Golden Globes! Golden Globe® Awards clips provided by Golden Globes, LLC and Dick Clark Productions, LLC.\n\nFull Story: https://www.eonline.com/news/1392374/golden-globe-awards-2024-winners-the-complete-list?source=youtube&medium=enews\n\n#GoldenGlobes #GoldenGlobes2024 #ENews \n\nSubscribe: http://bit.ly/enewssub\n\nAbout E! News:\nThe E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.\n\nDownload The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017\n\nYour favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt\n\nConnect with E! News:\nVisit the E! News WEBSITE: http://eonli.ne/enews\nLike E! News on FACEBOOK: https://www.facebook.com/enews/\nCheck out E! News on INSTAGRAM: https://www.instagram.com/enews/\nFollow E! News on TWITTER: https://twitter.com/enews\n\nBillie Eilish Gets EMOTIONAL While Accepting Best Song Win For Barbie | 2024 Golden Globes\nhttp://www.youtube.com/user/enews",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "E! News",
+				"tags": [
+					"E! News Now",
+					"BARBIE",
+					"BILLIE EILISH",
+					"BILLIE_EILISH",
+					"CILLIAN MURPHY",
+					"CILLIAN_MURPHY",
+					"KYLIE JENNER",
+					"KYLIE_JENNER",
+					"PARTNER AMAZON",
+					"SELENA GOMEZ",
+					"SELENA_GOMEZ",
+					"TAYLOR SWIFT",
+					"TAYLOR_SWIFT",
+					"TIMOTHEE_CHALAMET",
+					"TOP STORIES",
+					"WOCHIT",
+					"E! NEWS NOW",
+					"golden globes",
+					"golden globes 2024",
+					"emma stone",
+					"golden globe",
+					"golden globe awards",
+					"awards show",
+					"golden globes 2024 winners",
+					"golden globes red carpet 2024",
+					"golden globes 2024 barbie",
+					"chalamet",
+					"jenner",
+					"taylor swift",
+					"recap",
+					"golden globes recap"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "2024 Golden Globes RECAP: Viral Memes & Must-See Moments! | 2024 Golden Globes",
+					"description": "From Kylie Jenner and Timothée Chalamet packing on the PDA to Taylor Swift and Selena Gomez sharing secrets, here’s everything missed at the 2024 Golden Globes! Golden Globe® Awards clips provided by Golden Globes, LLC and Dick Clark Productions, LLC.\n\nFull Story: https://www.eonline.com/news/1392374/golden-globe-awards-2024-winners-the-complete-list?source=youtube&medium=enews\n\n#GoldenGlobes #GoldenGlobes2024 #ENews \n\nSubscribe: http://bit.ly/enewssub\n\nAbout E! News:\nThe E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.\n\nDownload The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017\n\nYour favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt\n\nConnect with E! News:\nVisit the E! News WEBSITE: http://eonli.ne/enews\nLike E! News on FACEBOOK: https://www.facebook.com/enews/\nCheck out E! News on INSTAGRAM: https://www.instagram.com/enews/\nFollow E! News on TWITTER: https://twitter.com/enews\n\nBillie Eilish Gets EMOTIONAL While Accepting Best Song Win For Barbie | 2024 Golden Globes\nhttp://www.youtube.com/user/enews"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_Qk8KbhmK5JClwFk-LZmN7QQkhM",
+			"id": "KvSHHnucouo",
+			"snippet": {
+				"publishedAt": "2024-01-08T01:39:03Z",
+				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
+				"title": "Jo Koy Opening Monologue I 81st Annual Golden Globes",
+				"description": "Comedian Jo Koy welcomes everyone to the 81st Annual Golden Globe Awards. #GoldenGlobes #JoKoy #Opening\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/KvSHHnucouo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/KvSHHnucouo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/KvSHHnucouo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/KvSHHnucouo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/KvSHHnucouo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Golden Globes",
+				"tags": [
+					"Golden Globe Awards",
+					"Golden Globe Awards 2024",
+					"81st Golden Globe Awards",
+					"Jo Koy",
+					"The Beverly Hilton",
+					"CBS",
+					"Red Carpet",
+					"Dick Clark Productions",
+					"Eldridge Industries",
+					"Hollywood interviews",
+					"Cinema",
+					"Netflix",
+					"Movies",
+					"Film",
+					"Actress",
+					"Actor",
+					"Press",
+					"Association",
+					"Hollywood",
+					"2024 Nominees",
+					"Best Motion Picture",
+					"Best Performance",
+					"Best Director",
+					"Best Screeplay",
+					"Best Original Score",
+					"Best Original Song",
+					"Best Television Series",
+					"Barbenheimer",
+					"Golden Globes Opening"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Jo Koy Opening Monologue I 81st Annual Golden Globes",
+					"description": "Comedian Jo Koy welcomes everyone to the 81st Annual Golden Globe Awards. #GoldenGlobes #JoKoy #Opening\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "kWc6bPKfAxM-rJuZ7S1HeaJ-kMg",
+			"id": "TiDzMO19wq8",
+			"snippet": {
+				"publishedAt": "2024-01-07T22:19:06Z",
+				"channelId": "UCN5xN8gIljvWYnsj06V8WbQ",
+				"title": "The Hidden Lore Of Lethal Company",
+				"description": "Air up is having great bundles. Check it out yourself here:  https://airup.link/PyrocynicalJanuary\n\nI Stream Daily Here:  @PyrocynicalVEVO \n\nTwitter ► https://twitter.com/pyrocynical\nDiscord server ► https://discord.com/invite/pyrocynical\nInstagram ► https://www.instagram.com/pyrocynical/\n\nTBH Podcast: https://www.youtube.com/c/TBHpodcast\n\nPyro Store: https://pyrocynical.store/\n\nSubreddit ► https://www.reddit.com/r/pyrocynical\nInstagram ► http://instagram.com/pyrocynical\n\nwiki models by https://twitter.com/plrwutville",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Pyrocynical",
+				"categoryId": "23",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "The Hidden Lore Of Lethal Company",
+					"description": "Air up is having great bundles. Check it out yourself here:  https://airup.link/PyrocynicalJanuary\n\nI Stream Daily Here:  @PyrocynicalVEVO \n\nTwitter ► https://twitter.com/pyrocynical\nDiscord server ► https://discord.com/invite/pyrocynical\nInstagram ► https://www.instagram.com/pyrocynical/\n\nTBH Podcast: https://www.youtube.com/c/TBHpodcast\n\nPyro Store: https://pyrocynical.store/\n\nSubreddit ► https://www.reddit.com/r/pyrocynical\nInstagram ► http://instagram.com/pyrocynical\n\nwiki models by https://twitter.com/plrwutville"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "ES4-L_WPn8CzdNoStW0mIYkqvag",
+			"id": "OEHHNITLURQ",
+			"snippet": {
+				"publishedAt": "2024-01-08T00:09:21Z",
+				"channelId": "UCzfScS0MkYf1EHTPFCYt79Q",
+				"title": "Trying Costco Food with Sam and Colby!",
+				"description": "VERY LIMITED MERCH! https://www.jakemerch.com\nMY SOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nsam and colby and i ate all hot food from costco. hot dog pizza chicken bake ya ya ya pretzel ya ya ya \n\nSub to sam and colby!\n@samandcolby \n\n\n#Jakewebber",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Jake Webber",
+				"tags": [
+					"costco",
+					"costco deals",
+					"costco shopping",
+					"costco haul",
+					"costco new items",
+					"costco deals this week",
+					"shop with me costco",
+					"new costco finds",
+					"costco shop with me",
+					"costco new arrivals",
+					"costco best buys",
+					"costco new finds",
+					"costco shopping gina",
+					"costco sales this month",
+					"costco tips",
+					"ginas shopping life costco",
+					"new at costco",
+					"costco canada",
+					"costco new arrivals 2023",
+					"what to buy at costco",
+					"costco 2023",
+					"costco december 2023",
+					"costco australia",
+					"costco secrets",
+					"costco 2024"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Trying Costco Food with Sam and Colby!",
+					"description": "VERY LIMITED MERCH! https://www.jakemerch.com\nMY SOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nsam and colby and i ate all hot food from costco. hot dog pizza chicken bake ya ya ya pretzel ya ya ya \n\nSub to sam and colby!\n@samandcolby \n\n\n#Jakewebber"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "lOp1Rgrzgkv1qiEUL7hdT1S8R2Y",
+			"id": "Na8i-SnGfqc",
+			"snippet": {
+				"publishedAt": "2024-01-08T18:00:19Z",
+				"channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
+				"title": "american dream: the 21 savage story | Official Trailer",
+				"description": "Official trailer for \"american dream: the 21 savage story\".\n\nPre-save and pre-order music inspired by the film at: http://AmericanDream21savage.com\n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\nHappy Place and Gilga present a Happy Place production Built by GilgaBox \n\nFeaturing: 21 Savage, Donald Glover, Caleb McLaughlin \n\nDirected by: Stephen Glover, Jamal Olori, Fam Udeorji, and Luis Perez\nWritten by: Jamal Olori and Stephen Glover\nProduced by: Tara Razavi and Fam Udeorji \nExecutive Producer: Tara Razavi and Fam Udeorji\nWith special appearances by: Gail Bean, Druski, Jabari Banks, Chad Lindberg, Victoria Pedretti, Young Mazino, Natasha Lyonne \n\n(C) 2024 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment \n\n#21Savage #americandream",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "21 Savage",
+				"tags": [
+					"21 savage",
+					"american dream",
+					"the 21 savage story",
+					"21 savage american dream",
+					"21 savage movie",
+					"21 savage american dream trailer",
+					"american dream trailer",
+					"21 savage official video",
+					"21 savage music video",
+					"21 savage music",
+					"rap",
+					"hip hop",
+					"atlanta rap",
+					"21 savage video",
+					"21 savage movie trailer",
+					"21 savage 2024",
+					"movies 2024",
+					"movie trailers 2024",
+					"new movies 2024",
+					"rap documentary",
+					"new movies",
+					"donald glover",
+					"american dream the 21 savage story",
+					"Caleb McLaughlin",
+					"21 savage donald glover"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "american dream: the 21 savage story | Official Trailer",
+					"description": "Official trailer for \"american dream: the 21 savage story\".\n\nPre-save and pre-order music inspired by the film at: http://AmericanDream21savage.com\n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\nHappy Place and Gilga present a Happy Place production Built by GilgaBox \n\nFeaturing: 21 Savage, Donald Glover, Caleb McLaughlin \n\nDirected by: Stephen Glover, Jamal Olori, Fam Udeorji, and Luis Perez\nWritten by: Jamal Olori and Stephen Glover\nProduced by: Tara Razavi and Fam Udeorji \nExecutive Producer: Tara Razavi and Fam Udeorji\nWith special appearances by: Gail Bean, Druski, Jabari Banks, Chad Lindberg, Victoria Pedretti, Young Mazino, Natasha Lyonne \n\n(C) 2024 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment \n\n#21Savage #americandream"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "zOUXU2IxXuD3c52P0eMd5xIetEs",
+			"id": "k3HSpn92YTQ",
+			"snippet": {
+				"publishedAt": "2024-01-07T22:29:26Z",
+				"channelId": "UCDDgfKQE3eaD1H08VHRAfig",
+				"title": "I'm A Dad Now...",
+				"description": "snapchat: @DDG",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "PontiacMadeDDG VLOGS",
+				"tags": [
+					"pontiac",
+					"pontiacmade",
+					"pontiacmadeddg",
+					"ddg",
+					"pontiacmadeddgvlogs",
+					"vlogs",
+					"vlog",
+					"ddg vlogs",
+					"ddg vlog",
+					"pontiac vlog",
+					"pontiac vlogs",
+					"pontiacmadeddg vlog",
+					"pontiacmadeddg vlogs",
+					"Family",
+					"family friendly",
+					"friendly",
+					"school",
+					"kids",
+					"ddg elon musk",
+					"ddg halle",
+					"halo",
+					"ddg halo",
+					"halle baby",
+					"halle halo",
+					"halle ddg baby"
+				],
+				"categoryId": "26",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "I'm A Dad Now...",
+					"description": "snapchat: @DDG"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "mJf1UXJIqWYXqng5ppA4pLhi9Q0",
+			"id": "XjbksrRUGck",
+			"snippet": {
+				"publishedAt": "2024-01-08T18:28:49Z",
+				"channelId": "UCGRZCH6GtfERsdX541uqmoQ",
+				"title": "OUR IVF JOURNEY: episode five",
+				"description": "Subscribe to stay updated!\n\nFOLLOW ALONG:\n\n+MY TIK TOK: https://bit.ly/2ThjuCH​​​\n+MY IG: https://www.instagram.com/jacimariesmith\n+MY PODCAST: https://apple.co/3cFTlFv\n+PODCAST IG: https://www.instagram.com/whatwesaidpodcast\n\n+My Amazon Storefront: https://www.amazon.com/shop/jacimariesmith",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/XjbksrRUGck/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/XjbksrRUGck/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/XjbksrRUGck/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/XjbksrRUGck/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/XjbksrRUGck/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Jaci Marie",
+				"tags": [
+					"jaci marie",
+					"jaci",
+					"Leif",
+					"jaci and Leif",
+					"travel couple",
+					"couple goals",
+					"photography",
+					"videography",
+					"Los Angeles",
+					"Southern California",
+					"photo",
+					"fall vlog",
+					"day in my life",
+					"week in my life",
+					"weekly vlog",
+					"what we said podcast",
+					"wiml",
+					"diml",
+					"new house",
+					"ivf",
+					"ivf vlog",
+					"infertility",
+					"fertility",
+					"jaci marie ivf vlog",
+					"jaci marie ivf",
+					"Leif and jaci ivf",
+					"egg retrieval",
+					"embryo transfer",
+					"Jaci ivf vlogs",
+					"jaci marie ivf journey",
+					"episode three",
+					"pregnant",
+					"pregnancy",
+					"first trimester"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "OUR IVF JOURNEY: episode five",
+					"description": "Subscribe to stay updated!\n\nFOLLOW ALONG:\n\n+MY TIK TOK: https://bit.ly/2ThjuCH​​​\n+MY IG: https://www.instagram.com/jacimariesmith\n+MY PODCAST: https://apple.co/3cFTlFv\n+PODCAST IG: https://www.instagram.com/whatwesaidpodcast\n\n+My Amazon Storefront: https://www.amazon.com/shop/jacimariesmith"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "x-qRvZODYnf1K8BLA82xZvQa7QI",
+			"id": "q2eLOupmraQ",
+			"snippet": {
+				"publishedAt": "2024-01-08T13:58:08Z",
+				"channelId": "UC8CX0LD98EDXl4UYX1MDCXg",
+				"title": "RECKONING // Episode 8 Cinematic - VALORANT",
+				"description": "The truth... won't stay hidden forever.\n\nBring the fight and make them know your name in Episode 8: DEFIANCE.\n\nMade in partnership with Lightfarm Studios.\n—\nMUSIC\nArtist: YONAKA\nTrack: PREDATOR\nAdditional scoring: Ghostwriter Music\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/3Q3FBuu\nInstagram: https://riot.com/3K3tEBi\nTikTok: https://riot.com/44TSg7K \n\n#VALORANT #RIOTGAMES #DEFIANCE",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "VALORANT",
+				"tags": [
+					"VALORANT",
+					"VAL",
+					"fps",
+					"shooters",
+					"tactical",
+					"launch",
+					"agent",
+					"agents",
+					"episode",
+					"ep",
+					"viii",
+					"act",
+					"trailer",
+					"cinematic",
+					"cg",
+					"video",
+					"teaser",
+					"new",
+					"story",
+					"narrative",
+					"reckoning",
+					"defiance",
+					"cypher",
+					"iso",
+					"sentinel",
+					"casablanca",
+					"morocco",
+					"jakarta",
+					"indonesia",
+					"sova",
+					"initiator",
+					"omen",
+					"controller",
+					"ghost",
+					"outlaw",
+					"out",
+					"law",
+					"weapon",
+					"twin",
+					"double",
+					"barrel",
+					"sniper",
+					"rifle",
+					"shrouded",
+					"step",
+					"viper",
+					"radianite",
+					"spycam",
+					"trapwire",
+					"neural",
+					"theft",
+					"owl",
+					"drone",
+					"recon",
+					"bolt",
+					"dart",
+					"paranoia",
+					"operator",
+					"hunters",
+					"fury",
+					"from",
+					"the",
+					"shadows"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "RECKONING // Episode 8 Cinematic - VALORANT",
+					"description": "The truth... won't stay hidden forever.\n\nBring the fight and make them know your name in Episode 8: DEFIANCE.\n\nMade in partnership with Lightfarm Studios.\n—\nMUSIC\nArtist: YONAKA\nTrack: PREDATOR\nAdditional scoring: Ghostwriter Music\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/3Q3FBuu\nInstagram: https://riot.com/3K3tEBi\nTikTok: https://riot.com/44TSg7K \n\n#VALORANT #RIOTGAMES #DEFIANCE"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "DCzYlToBQd3UzrXf7Ho5oEFwHvk",
+			"id": "DYLG65xz55U",
+			"snippet": {
+				"publishedAt": "2024-01-07T15:39:05Z",
+				"channelId": "UCme6XJ0pNj-zyVyYkAJikxw",
+				"title": "Guntur Kaaram Theatrical Trailer | Mahesh Babu, Sreeleela | Trivikram | Thaman",
+				"description": "Presenting you the Highly Inflammable Theatrical Trailer of #GunturKaaram ft. SUPERSTAR Mahesh Babu 🔥🔥\n\nWorldwide Grand Release on JAN 12th, 2024. 💥 #GunturKaaramOnJan12th \n\n'Guntur Kaaram' is our upcoming telugu feature film starring Superstar Mahesh Babu, Sree Leela in Lead roles. Directed by Trivikram. Music by Thaman S. Cinematography by Manoj Paramahamsa. Editing by Navin Nooli. Art by A.S Prakash. Produced by S Radha Krishna(Chinababu) Under Haarika & Hassine Creations.\n\nCast & Crew Details:\n\nStars: Super Star Mahesh Babu, Sree Leela, Meenakshi Chaudhary\nDirector: Trivikram\nMusic: Thaman S\nCinematography: Manoj Paramahamsa\nEditor: Navin Nooli\nArt Director - A.S. Prakash\nProducer: S. Radha Krishna(Chinababu)\nPresenter - Smt. Mamatha\nBanner - Haarika & Hassine Creations\n\n► Subscribe: http://bit.ly/HaarikaHassineOfficial\r\n► Like: https://facebook.com/HaarikaHassineOfficial\r\n► Follow: http://instagram.com/HaarikaHassineOfficial\r\n► Follow: https://twitter.com/HaarikaHassine",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/DYLG65xz55U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/DYLG65xz55U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/DYLG65xz55U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/DYLG65xz55U/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/DYLG65xz55U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Haarika & Hassine Creations",
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Guntur Kaaram Theatrical Trailer | Mahesh Babu, Sreeleela | Trivikram | Thaman",
+					"description": "Presenting you the Highly Inflammable Theatrical Trailer of #GunturKaaram ft. SUPERSTAR Mahesh Babu 🔥🔥\n\nWorldwide Grand Release on JAN 12th, 2024. 💥 #GunturKaaramOnJan12th \n\n'Guntur Kaaram' is our upcoming telugu feature film starring Superstar Mahesh Babu, Sree Leela in Lead roles. Directed by Trivikram. Music by Thaman S. Cinematography by Manoj Paramahamsa. Editing by Navin Nooli. Art by A.S Prakash. Produced by S Radha Krishna(Chinababu) Under Haarika & Hassine Creations.\n\nCast & Crew Details:\n\nStars: Super Star Mahesh Babu, Sree Leela, Meenakshi Chaudhary\nDirector: Trivikram\nMusic: Thaman S\nCinematography: Manoj Paramahamsa\nEditor: Navin Nooli\nArt Director - A.S. Prakash\nProducer: S. Radha Krishna(Chinababu)\nPresenter - Smt. Mamatha\nBanner - Haarika & Hassine Creations\n\n► Subscribe: http://bit.ly/HaarikaHassineOfficial\r\n► Like: https://facebook.com/HaarikaHassineOfficial\r\n► Follow: http://instagram.com/HaarikaHassineOfficial\r\n► Follow: https://twitter.com/HaarikaHassine"
+				},
+				"defaultAudioLanguage": "te"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "qSHOnNAXAtoulMxYADJwEehnFI4",
+			"id": "tJ8pHcdGqoo",
+			"snippet": {
+				"publishedAt": "2024-01-07T19:46:39Z",
+				"channelId": "UCGTKwjs1ctvgwCRa67RNO-Q",
+				"title": "We’re Building The World’s Biggest Wrecker!",
+				"description": "My favorite mapping service available! \nDon’t miss you! \n\nhttps://www.onxmaps.com/offroad/elite/beanie-giveaway?utm_source=social+channels&utm_medium=ambassador&utm_campaign=HeavyD&utm_content=jan+beanie+giveaway\n\nAlso big thanks to @JACKKNIFEMOTORS for this custom Ram! These guys absolutely crushed it on this build and I’m excited to put it to the test! Do me a huge favor and give them a follow:@JACKKNIFEMOTORS \n\nCheckout our other channel for more in depth detail about this build! @SparksMotorsCo \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #dieseldave #dieselbrothers",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "HeavyDSparks",
+				"tags": [
+					"gta 5 tow truck roleplay",
+					"towing",
+					"snowrunner",
+					"trailers",
+					"family friendly",
+					"no swearing",
+					"Recovery",
+					"Diesel",
+					"Diesel brothers",
+					"Heavy equipment",
+					"Whistlindiesel",
+					"Cleetus McFarland",
+					"Demolition ranch",
+					"Matt’s Offroad",
+					"Mud",
+					"Adventure",
+					"For you",
+					"Heavydsparks",
+					"Sparks motors",
+					"Freedom bus",
+					"Dirt",
+					"Dirt work",
+					"Tractor",
+					"Dave sparks",
+					"Diesel Dave",
+					"tow truck",
+					"wrecker",
+					"blue collar",
+					"excavator",
+					"equipment",
+					"heavy duty",
+					"dozer",
+					"hunting",
+					"hellcat",
+					"JEEP",
+					"snowcat",
+					"oshkosh",
+					"auction",
+					"govplanet",
+					"public surplus",
+					"abandoned",
+					"storage unit"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "We’re Building The World’s Biggest Wrecker!",
+					"description": "My favorite mapping service available! \nDon’t miss you! \n\nhttps://www.onxmaps.com/offroad/elite/beanie-giveaway?utm_source=social+channels&utm_medium=ambassador&utm_campaign=HeavyD&utm_content=jan+beanie+giveaway\n\nAlso big thanks to @JACKKNIFEMOTORS for this custom Ram! These guys absolutely crushed it on this build and I’m excited to put it to the test! Do me a huge favor and give them a follow:@JACKKNIFEMOTORS \n\nCheckout our other channel for more in depth detail about this build! @SparksMotorsCo \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #dieseldave #dieselbrothers"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "SHwD8d6FgeZkC_buCr71AOzuOwM",
+			"id": "uzQZ-ilS1ps",
+			"snippet": {
+				"publishedAt": "2024-01-08T02:18:22Z",
+				"channelId": "UCjK0F1DopxQ5U0sCwOlXwOg",
+				"title": "He Was Robbed",
+				"description": "FACT CHECK SHEET ►https://bit.ly/MogulMailCorrections\nfollow me on twitter ► https://www.twitter.com/ludwigahgren\nfollow me on tiktok ► https://www.tiktok.com/@ludwigahgren\nfollow me on instagram ► https://www.instagram.com/ludwigahgren\njoin my subreddit ► https://old.reddit.com/r/LudwigAhgren/\nLINK TO EVERYTHING ► https://wlo.link/@ludwig\n\nThis Video Took 13.1 Takes\n\n#mogulmail #ludwig",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Mogul Mail",
+				"tags": [
+					"ludwig",
+					"ahgren",
+					"stream",
+					"weekly slap",
+					"jschlatt",
+					"story time",
+					"twitch",
+					"live",
+					"mogul",
+					"mail"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "He Was Robbed",
+					"description": "FACT CHECK SHEET ►https://bit.ly/MogulMailCorrections\nfollow me on twitter ► https://www.twitter.com/ludwigahgren\nfollow me on tiktok ► https://www.tiktok.com/@ludwigahgren\nfollow me on instagram ► https://www.instagram.com/ludwigahgren\njoin my subreddit ► https://old.reddit.com/r/LudwigAhgren/\nLINK TO EVERYTHING ► https://wlo.link/@ludwig\n\nThis Video Took 13.1 Takes\n\n#mogulmail #ludwig"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "uY_2rHJ3d4oOEhbMvheQ_cD4gMc",
+			"id": "o3CJbfYSo_E",
+			"snippet": {
+				"publishedAt": "2024-01-07T19:06:53Z",
+				"channelId": "UC5Qbo0AR3CwpmEq751BIy0g",
+				"title": "10 Things You SHOULD Be Buying at Costco in January 2024",
+				"description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco January 2024!\n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco December Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity or FoodTheory, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2024 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2024. I hope you enjoy this 2024 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "The Deal Guy",
+				"tags": [
+					"the deal guy",
+					"costco",
+					"costco store",
+					"costco secrets",
+					"costco haul",
+					"costco shopping",
+					"costco shop with me",
+					"flavcity",
+					"costco tips",
+					"costco shopping secrets",
+					"costco canada",
+					"costco australia",
+					"costco deals",
+					"costco 2024",
+					"2024 costco",
+					"what to buy at costco",
+					"10 things you should buy at costco",
+					"Things You Should ALWAYS Buy at Costco",
+					"best things costco",
+					"costco shopping 2024",
+					"new at costco",
+					"costco december 2024",
+					"costco december",
+					"december costco",
+					"december costco 2024",
+					"shopping"
+				],
+				"categoryId": "28",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "10 Things You SHOULD Be Buying at Costco in January 2024",
+					"description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco January 2024!\n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco December Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity or FoodTheory, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2024 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2024. I hope you enjoy this 2024 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "1wuRFhxtamHnfTxspERTInc53OY",
+			"id": "a6vkaryZdl8",
+			"snippet": {
+				"publishedAt": "2024-01-07T20:08:50Z",
+				"channelId": "UCt_DaLB_NDqPVxezyvcfRtg",
+				"title": "Playing Fortnite With My Favorite Creators",
+				"description": "Playing Fortnite With My Favorite Creators\n\n➽Channel Subscription Link: https://www.youtube.com/c/LARRAY?sub_confirmation=1\n\nI tried my best to bring the video to life, I hope you guys enjoy it seriously. Welcome t\n\nNick: https://www.youtube.com/@UCjVLCcrQsYX7Lu98pOcP3GA \nBen: https://www.youtube.com/@UC_UnVDztkvE1hw064XFTNSQ \nQuackity: https://www.youtube.com/@UC_8NknAFiyhOUaZqHR3lq3Q \n\n my fragrance house of 8: https://www.houseof8.co\n..Follow my socials:\n➽Twitter: https://twitter.com/larray\n➽Instagram:https://www.instagram.com/larray/\n➽spotify: https://open.spotify.com/artist/0rQjJ...\n➽Facebook: https://www.facebook.com/larrayxo\n➽Join my discord: discord.gg/larray \n➽Snapchat: Larrayxo\n➽Tumblr: http://larrayxo.tumblr.com/\n\nlove YOU \n-larri\n\n#Larray #PlayingFortnite #LarrayVlog",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "LARRAY",
+				"tags": [
+					"Larray",
+					"Larray Playing Fortnite",
+					"Playing Fortnite with my Favorite Creators",
+					"LARRAY",
+					"QUACKITY",
+					"BEN OF THE WEEK",
+					"nick sturniolo",
+					"Fortnite",
+					"playing games",
+					"comedy",
+					"larray Fortnite"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Playing Fortnite With My Favorite Creators",
+					"description": "Playing Fortnite With My Favorite Creators\n\n➽Channel Subscription Link: https://www.youtube.com/c/LARRAY?sub_confirmation=1\n\nI tried my best to bring the video to life, I hope you guys enjoy it seriously. Welcome t\n\nNick: https://www.youtube.com/@UCjVLCcrQsYX7Lu98pOcP3GA \nBen: https://www.youtube.com/@UC_UnVDztkvE1hw064XFTNSQ \nQuackity: https://www.youtube.com/@UC_8NknAFiyhOUaZqHR3lq3Q \n\n my fragrance house of 8: https://www.houseof8.co\n..Follow my socials:\n➽Twitter: https://twitter.com/larray\n➽Instagram:https://www.instagram.com/larray/\n➽spotify: https://open.spotify.com/artist/0rQjJ...\n➽Facebook: https://www.facebook.com/larrayxo\n➽Join my discord: discord.gg/larray \n➽Snapchat: Larrayxo\n➽Tumblr: http://larrayxo.tumblr.com/\n\nlove YOU \n-larri\n\n#Larray #PlayingFortnite #LarrayVlog"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "UBPUfhK62cq5xspzSk4vvwTHXbY",
+			"id": "5csvkVi39VI",
+			"snippet": {
+				"publishedAt": "2024-01-07T18:53:10Z",
+				"channelId": "UClQ3NafOy_42dJ0toK3QUKw",
+				"title": "Eating GIANT vs TINY Food Challenge!",
+				"description": "The boys cooked GIANT vs TINY food…\n\nMAIN CHANNEL: https://www.youtube.com/channel/UCwVg9btOceLQuNCdoQk9CXg\n\nBUY THE MERCH: https://staywildshop.com\n\nOUR SOCIALS:\nBen Azelart: @BenAzelart \nDerek Days: @DerekDays \nCam Huff: @CamHuff \n\nNEW EPISODES EVERY WEEK!!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5csvkVi39VI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5csvkVi39VI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5csvkVi39VI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5csvkVi39VI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5csvkVi39VI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Stay Wild Vlogs",
+				"tags": [
+					"Ben Azelart",
+					"Brent Rivera",
+					"Pierson Wodzynski",
+					"Derek Days",
+					"StayWild",
+					"Stay Wild",
+					"Ben Azelart Podcast",
+					"Lexi Rivera",
+					"Lexi Hensler",
+					"Stokes Twins",
+					"Alan Stokes",
+					"Alex Stokes",
+					"Jeremy Hutchins",
+					"Sofie Dossi",
+					"Dom Brack",
+					"Amp Squad",
+					"TikTok",
+					"Bexi",
+					"Brierson",
+					"Lexi Rivera Boyfriend",
+					"Ben Azelart Girlfriend",
+					"Ben and Lexi",
+					"Brent and Pierson",
+					"Andrew Davila",
+					"Cam Huff",
+					"Dereks Days",
+					"Stay Wild Vlogs"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Eating GIANT vs TINY Food Challenge!",
+					"description": "The boys cooked GIANT vs TINY food…\n\nMAIN CHANNEL: https://www.youtube.com/channel/UCwVg9btOceLQuNCdoQk9CXg\n\nBUY THE MERCH: https://staywildshop.com\n\nOUR SOCIALS:\nBen Azelart: @BenAzelart \nDerek Days: @DerekDays \nCam Huff: @CamHuff \n\nNEW EPISODES EVERY WEEK!!"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "AdM2G6LZX5TwJqBD93xCnyhW45U",
+			"id": "xt3tdfp9FJo",
+			"snippet": {
+				"publishedAt": "2024-01-07T18:35:44Z",
+				"channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
+				"title": "⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
+				"description": "Liverpool advance past Arsenal in the FA Cup courtesy of a late second-half own goal from Jakub Kiwior and then a stoppage time goal from Luis Diaz.\n#ESPNFC #espnfc #FACup \n\n✔ Subscribe to ESPN+: http://espnplus.com/soccer/youtube\n✔ Subscribe to ESPN FC on YouTube: http://bit.ly/SUBSCRIBEtoESPNFC",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "ESPN FC",
+				"tags": [
+					"⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
+					"ESPN FC",
+					"ESPN FC TV",
+					"espn fc full",
+					"espn fc full show",
+					"espn fc show",
+					"espn fc today",
+					"ESPNFC",
+					"#ESPNFC",
+					"soccer on espn",
+					"espn fc soccer",
+					"soccer highlights",
+					"espn soccer",
+					"Arsenal vs",
+					"arsenal vs liverpool",
+					"arsenal vs liverpool highlights",
+					"liverpool highlights",
+					"liverpool fc",
+					"liverpool fa cup",
+					"liverpool fa cup highlights",
+					"arsenal fa cup",
+					"arsenal fa cup highlights",
+					"espn fc fa cup"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
+					"description": "Liverpool advance past Arsenal in the FA Cup courtesy of a late second-half own goal from Jakub Kiwior and then a stoppage time goal from Luis Diaz.\n#ESPNFC #espnfc #FACup \n\n✔ Subscribe to ESPN+: http://espnplus.com/soccer/youtube\n✔ Subscribe to ESPN FC on YouTube: http://bit.ly/SUBSCRIBEtoESPNFC"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "qlxBmIFB3yW0cj8gfukgBRl_N4A",
+			"id": "hIfSpFn-klo",
+			"snippet": {
+				"publishedAt": "2024-01-07T16:08:28Z",
+				"channelId": "UCUU3GdGuQshZFRGnxAPBf_w",
+				"title": "100 VEHICLES in LEGO...",
+				"description": "From vehicles on land, to water, all the way to air, I build 100 different modes of transportation with Lego...\n\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Psychosis: https://www.youtube.com/@prodbypsychosis\n\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "TD BRICKS",
+				"tags": [
+					"lego airplane",
+					"lego boat",
+					"lego car",
+					"lego lamborghini",
+					"lego police car",
+					"lego monwheel",
+					"lego motorcycle",
+					"lego fighter jet",
+					"lego tesla",
+					"lego monster truck",
+					"lego star wars",
+					"lego moc",
+					"lego creation",
+					"lego movie",
+					"lego set",
+					"lego sets",
+					"lego school bus",
+					"lego yacht",
+					"lego roller coaster",
+					"lego train",
+					"lego submarine",
+					"lego titanic",
+					"lego cybertruck",
+					"lego vehicles",
+					"100 lego vehicles",
+					"lego modes of transportation",
+					"lego build",
+					"lego building",
+					"lego tank",
+					"lego helicopter"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "100 VEHICLES in LEGO...",
+					"description": "From vehicles on land, to water, all the way to air, I build 100 different modes of transportation with Lego...\n\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Psychosis: https://www.youtube.com/@prodbypsychosis\n\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "VGDKYfT5JUZG2AkuL8gxQE7itlY",
+			"id": "p8HtYK7jqgQ",
+			"snippet": {
+				"publishedAt": "2024-01-08T01:50:27Z",
+				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
+				"title": "Robert Downey Jr Wins Best Supporting Male Actor – Motion Picture I 81st Annual Golden Globes",
+				"description": "Robert Downey Jr. accepts the Best Performance by a Male Actor in a Supporting Role in any Motion Picture award for \"Oppenheimer\" at the 81st Annual Golden Globe Awards. #GoldenGlobes #RobertDowneyJr #Oppenheimer\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Golden Globes",
+				"tags": [
+					"Golden Globe Awards",
+					"Golden Globe Awards 2024",
+					"81st Golden Globe Awards",
+					"Jo Koy",
+					"The Beverly Hilton",
+					"CBS",
+					"Red Carpet",
+					"Dick Clark Productions",
+					"Eldridge Industries",
+					"Hollywood interviews",
+					"Cinema",
+					"Netflix",
+					"Movies",
+					"Film",
+					"Actress",
+					"Actor",
+					"Press",
+					"Association",
+					"Hollywood",
+					"2024 Nominees",
+					"Best Motion Picture",
+					"Best Performance",
+					"Best Director",
+					"Best Screeplay",
+					"Best Original Score",
+					"Best Original Song",
+					"Best Television Series",
+					"Barbenheimer",
+					"Robert Downey Jr",
+					"Oppenheimer",
+					"Best Supporting Male Actor"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Robert Downey Jr Wins Best Supporting Male Actor – Motion Picture I 81st Annual Golden Globes",
+					"description": "Robert Downey Jr. accepts the Best Performance by a Male Actor in a Supporting Role in any Motion Picture award for \"Oppenheimer\" at the 81st Annual Golden Globe Awards. #GoldenGlobes #RobertDowneyJr #Oppenheimer\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "6LN1_Yr_gEv3JK2YmVlC6Xa0wbE",
+			"id": "kUq92vKPJRU",
+			"snippet": {
+				"publishedAt": "2024-01-07T22:04:01Z",
+				"channelId": "UC1FbPiXx59_ltnFVx7IxWow",
+				"title": "'Now Is The Time To Prepare': Powerful Winter Storm Could Spark Power Outages Along East Coast",
+				"description": "We're tracking the next winter storm that will be bigger than the weekend nor'easter. FOX Weather meteorologist Craig Herrera has what you need to know. #foxweather #weather #winterstorm  \n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "FOX Weather",
+				"tags": [
+					"craig herrera",
+					"flooding",
+					"fox weather",
+					"power outages",
+					"rain",
+					"snow",
+					"weather",
+					"winter",
+					"winter storm",
+					"snow storm",
+					"winter storm 2024",
+					"winter storm warning",
+					"fox weather live",
+					"fox weather channel",
+					"power outages today"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "'Now Is The Time To Prepare': Powerful Winter Storm Could Spark Power Outages Along East Coast",
+					"description": "We're tracking the next winter storm that will be bigger than the weekend nor'easter. FOX Weather meteorologist Craig Herrera has what you need to know. #foxweather #weather #winterstorm  \n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device."
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_G5ZwfcMYEsV3WYyw75abHaBdD0",
+			"id": "YFbno_aPm0w",
+			"snippet": {
+				"publishedAt": "2024-01-07T01:00:13Z",
+				"channelId": "UCdAHaWcKdpbT5XkN2Er6BUQ",
+				"title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
+				"description": "TVアニメ「ONE PIECE」毎週日曜朝9:30よりフジテレビほかにて放送中！\n2024年1月7日より、きただにひろしが歌う「あーーっす！」がオープニングテーマになりました。\n\nタイトル：あーーっす！\n作詞：藤林聖子\n作曲：田中公平\n編曲：中村 博\n\n先行配信：2024年1月8日 AM0:00（予定）\nCDリリース：2024年4月10日（水）\n\n価格：\nCD＋Blu-ray：\\2,200 (税込)\nCD＋DVD： \\2,200 (税込)\nCDのみ：\\1,650(税込)\n\n作詞：藤林聖子、作曲：田中公平による「ウィーアー！」の正統後継作。\n「あーーっす！」含め4曲収録のほか、初のミュージックビデオを収録予定。\n\n#ONEPIECE",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "ONE PIECE公式YouTubeチャンネル",
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
+					"description": "TVアニメ「ONE PIECE」毎週日曜朝9:30よりフジテレビほかにて放送中！\n2024年1月7日より、きただにひろしが歌う「あーーっす！」がオープニングテーマになりました。\n\nタイトル：あーーっす！\n作詞：藤林聖子\n作曲：田中公平\n編曲：中村 博\n\n先行配信：2024年1月8日 AM0:00（予定）\nCDリリース：2024年4月10日（水）\n\n価格：\nCD＋Blu-ray：\\2,200 (税込)\nCD＋DVD： \\2,200 (税込)\nCDのみ：\\1,650(税込)\n\n作詞：藤林聖子、作曲：田中公平による「ウィーアー！」の正統後継作。\n「あーーっす！」含め4曲収録のほか、初のミュージックビデオを収録予定。\n\n#ONEPIECE"
+				},
+				"defaultAudioLanguage": "ja"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "3iAi291q8Wcg2da_A4DI7Tx3RXk",
+			"id": "i3vX-UQm_po",
+			"snippet": {
+				"publishedAt": "2024-01-07T23:00:51Z",
+				"channelId": "UC1HL3TABt6QGd_P857BH_CA",
+				"title": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION",
+				"description": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION...As the new champion of parkour civilization, how will I figure out how to be the greatest parkour champion of all time?.....\n\nVoice Actors: Evbo\nActors: Evbo, Teddy\n\nJoin My Discord!\nhttps://discord.gg/cbnFGNz\n\nFollow me on Twitch, Twitter, and Tiktok!\nTiktok: @evboshorts\nTwitter: twitter.com/evbolive\nTwitch: https://www.twitch.tv/evbolive​​​​​​​​​\n\nCheck out MCProHosting to host a server!\nhttps://mcph.to/Evbo\nUse promo code \"Evbo\"!\n\nMusic/FX:\n\"Stay The Course, Hit The Streets\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\n#minecraft",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Evbo",
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION",
+					"description": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION...As the new champion of parkour civilization, how will I figure out how to be the greatest parkour champion of all time?.....\n\nVoice Actors: Evbo\nActors: Evbo, Teddy\n\nJoin My Discord!\nhttps://discord.gg/cbnFGNz\n\nFollow me on Twitch, Twitter, and Tiktok!\nTiktok: @evboshorts\nTwitter: twitter.com/evbolive\nTwitch: https://www.twitch.tv/evbolive​​​​​​​​​\n\nCheck out MCProHosting to host a server!\nhttps://mcph.to/Evbo\nUse promo code \"Evbo\"!\n\nMusic/FX:\n\"Stay The Course, Hit The Streets\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\n#minecraft"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "XwQ4Dobk0jL40-YybOS_SlWfIHs",
+			"id": "CCEuuJLFdJQ",
+			"snippet": {
+				"publishedAt": "2024-01-08T02:08:29Z",
+				"channelId": "UCNsjdLTgAPIlVUldlPzG7rQ",
+				"title": "$1,000 vs $5,000 Facebook Marketplace Jet Jon Boat Challenge! (ft. FishingWithNorm)",
+				"description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/ayofishing or through my promo code AYOFISHING\n\nif you see jet jons for sale that say \"lightly used\", def not your boy...\n\nSubscribe for more videos with the boys!! @AYOFishing \nCheck out my mans - @FishingWithNorm \n\n#JetJon #Facebookmarketplace #JonBoat \n___________________________________________________________________________________________\nADD ME ON SOCIALS😬😬\n\nIG: https://www.instagram.com/ayo_fishing/\nTikTok: https://www.tiktok.com/@ayofishing\nDONT FORGET GRAVY: https://www.instagram.com/davygravyy/\n\n\nBUSINESS INQUIRIES: TeamAYO@unitedtalent.com\n\nFilming Gear:\nMy Main Camera: https://amzn.to/3Ok5BOX\nMy Camera Lens: https://amzn.to/3Es6eSg\nMy Back Up Camera: https://amzn.to/3JMRZbF\nMy Main Camera Microphone: https://amzn.to/3EhPhdb\nMy GoPro: https://amzn.to/3M6NwCf\nMy GoPro Mic: https://amzn.to/3rz3CN1\nMy Chest Mount: https://amzn.to/3xvKHq6\nMy Vlogging Camera Tripod: https://amzn.to/3JPnXUK\nMy Editing Computer: https://amzn.to/3M6NHgT\nMy Sd Card: https://amzn.to/37hpKEV\nMy Drone: https://amzn.to/3MbbiNy\n\n*The above links are Amazon affiliate*\n\n___________________________________________________________________________________________\n\nif you're reading this, watch your back, gravy is watching you, he's always watching...\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (1-800-426-2537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NJ/OH/OR/PA/TN/VA/W/WY),\n(800) 327-5050 or visit gamblinghelplinema.org  (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).\nPlease Gamble Responsibly. Call 1-800-522-4700 (NH), 888-789-7777/visit cpg.org  (CT), or visit www.1800gambler.net (WV).\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NJ/NY/OH/PA/TN/VA/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Bet $5 Get $150: Valid 1 per new customer. Min. $5 deposit. Min. $5 bet. $150 issued in bonus bets. No Sweat: Opt in req. 1 No Sweat token issued per day. SP/SGPx bets only. 3+ legs req. Max. wagering limits apply. Must use funds from cash balance. Must select token BEFORE placing bet. Bet must lose after applying Token. Paid as one Bonus Bet based on amount of losing bet. Tokens expire at start of the last game each day when offered. No Sweat cannot be used to redeem Bet $5 Get $150 offer. Rewarded bonus bets expire 7 days (168 hours) after being awarded. Bonus bets must be wagered 1× and stake is not included in winnings. Ends 01/08/24 at 11:59 PM ET. Sponsored by DK. See terms at dkng.co/bball.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "AYO Fishing",
+				"tags": [
+					"Jet Jon",
+					"Facebook Marketplace",
+					"Cheap boat",
+					"Expensive boat",
+					"jet boat",
+					"Jon boat",
+					"jetski boat",
+					"jetski motor",
+					"jetski engine",
+					"jet boat foot",
+					"jet foot",
+					"jet",
+					"boat",
+					"cheap v expensive",
+					"Facebook boat"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "$1,000 vs $5,000 Facebook Marketplace Jet Jon Boat Challenge! (ft. FishingWithNorm)",
+					"description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/ayofishing or through my promo code AYOFISHING\n\nif you see jet jons for sale that say \"lightly used\", def not your boy...\n\nSubscribe for more videos with the boys!! @AYOFishing \nCheck out my mans - @FishingWithNorm \n\n#JetJon #Facebookmarketplace #JonBoat \n___________________________________________________________________________________________\nADD ME ON SOCIALS😬😬\n\nIG: https://www.instagram.com/ayo_fishing/\nTikTok: https://www.tiktok.com/@ayofishing\nDONT FORGET GRAVY: https://www.instagram.com/davygravyy/\n\n\nBUSINESS INQUIRIES: TeamAYO@unitedtalent.com\n\nFilming Gear:\nMy Main Camera: https://amzn.to/3Ok5BOX\nMy Camera Lens: https://amzn.to/3Es6eSg\nMy Back Up Camera: https://amzn.to/3JMRZbF\nMy Main Camera Microphone: https://amzn.to/3EhPhdb\nMy GoPro: https://amzn.to/3M6NwCf\nMy GoPro Mic: https://amzn.to/3rz3CN1\nMy Chest Mount: https://amzn.to/3xvKHq6\nMy Vlogging Camera Tripod: https://amzn.to/3JPnXUK\nMy Editing Computer: https://amzn.to/3M6NHgT\nMy Sd Card: https://amzn.to/37hpKEV\nMy Drone: https://amzn.to/3MbbiNy\n\n*The above links are Amazon affiliate*\n\n___________________________________________________________________________________________\n\nif you're reading this, watch your back, gravy is watching you, he's always watching...\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (1-800-426-2537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NJ/OH/OR/PA/TN/VA/W/WY),\n(800) 327-5050 or visit gamblinghelplinema.org  (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).\nPlease Gamble Responsibly. Call 1-800-522-4700 (NH), 888-789-7777/visit cpg.org  (CT), or visit www.1800gambler.net (WV).\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NJ/NY/OH/PA/TN/VA/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Bet $5 Get $150: Valid 1 per new customer. Min. $5 deposit. Min. $5 bet. $150 issued in bonus bets. No Sweat: Opt in req. 1 No Sweat token issued per day. SP/SGPx bets only. 3+ legs req. Max. wagering limits apply. Must use funds from cash balance. Must select token BEFORE placing bet. Bet must lose after applying Token. Paid as one Bonus Bet based on amount of losing bet. Tokens expire at start of the last game each day when offered. No Sweat cannot be used to redeem Bet $5 Get $150 offer. Rewarded bonus bets expire 7 days (168 hours) after being awarded. Bonus bets must be wagered 1× and stake is not included in winnings. Ends 01/08/24 at 11:59 PM ET. Sponsored by DK. See terms at dkng.co/bball."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "f_lfMnt9wCMkTIY_08Wj93Nisr4",
+			"id": "99Hd5Lh69T4",
+			"snippet": {
+				"publishedAt": "2024-01-07T14:15:24Z",
+				"channelId": "UCCE5NVlm0FhbunMMBT48WAw",
+				"title": "So I Added ACTUAL HUMAN INTELLIGENCE to Minecraft...",
+				"description": "🕹 Get a browser that’s literally better at everything: https://operagx.gg/Fundy4 Sponsored by Opera GX!\n\nI Added ACTUAL Human Intelligence to Minecraft...\n\nHeya guys! Fundy here, I just want to take a second and say that this video is some of my proudest work. I am so happy with how it turned out, and I am even more happy that it worked... It's still unbelievable that this technical feat is possible, and we're only bringing it further from here. I have such insane plans for this project, and can't wait to share it with you! Make sure you're subscribed, you DON'T want to miss this one!\n\nDid you know subscribing is free? Pretty neat, you should check it out!\n\nBop it guy: @CraftyMasterman \nOlive oil: @DougDoug \n\n#Fundy #Minecraft #AI",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Fundy",
+				"tags": [
+					"fundage",
+					"fundy",
+					"itsfundy",
+					"fundy minecraft",
+					"minecraft fundy",
+					"fundy short",
+					"fundy shorts",
+					"fundy speedrun",
+					"fundy mods",
+					"fundy modding",
+					"minecraft modding",
+					"minecraft mods",
+					"fundy minecraft shorts",
+					"fundy clips",
+					"fundy minecraft mod",
+					"fundy mod download",
+					"best mods",
+					"minecraft best mods",
+					"best mods in minecraft",
+					"minecraft",
+					"mc",
+					"minecraft builds",
+					"minecraft best",
+					"minecraft funny",
+					"openAI",
+					"open AI",
+					"ChatGPT",
+					"Whisper",
+					"Elevenlabs",
+					"ai technology",
+					"technology",
+					"neural network",
+					"game development",
+					"game design"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "So I Added ACTUAL HUMAN INTELLIGENCE to Minecraft...",
+					"description": "🕹 Get a browser that’s literally better at everything: https://operagx.gg/Fundy4 Sponsored by Opera GX!\n\nI Added ACTUAL Human Intelligence to Minecraft...\n\nHeya guys! Fundy here, I just want to take a second and say that this video is some of my proudest work. I am so happy with how it turned out, and I am even more happy that it worked... It's still unbelievable that this technical feat is possible, and we're only bringing it further from here. I have such insane plans for this project, and can't wait to share it with you! Make sure you're subscribed, you DON'T want to miss this one!\n\nDid you know subscribing is free? Pretty neat, you should check it out!\n\nBop it guy: @CraftyMasterman \nOlive oil: @DougDoug \n\n#Fundy #Minecraft #AI"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "QnukZ1ORVvrwzaElPApn5koKUd0",
+			"id": "nbgtBGLg4G0",
+			"snippet": {
+				"publishedAt": "2024-01-07T13:59:45Z",
+				"channelId": "UC4zS1wbO81p59CxKL7CQAcA",
+				"title": "Let's Make Dad Proud",
+				"description": "Noah Barczyk, the son of Brian Barczyk, shares an uplifting update about his father and his plans to advance and honor his dad's legacy in the future. \n#brianbarczyk #makedadproud #reptilearmy \n\nFollow Noah here: https://www.youtube.com/@UCzNBH8Ztsf5x7zHCdxJSE4A \n\nWe've received numerous requests from our compassionate followers seeking ways to support Brian and his loved ones. We're humbled by your generosity and have compiled a list of ways you can help:\n\n“Leave Your Legacy At LegaSea” Initiative: Become a part of Brian's vision by purchasing LegaSea Wall Plaques from The Reptarium: https://thereptarium.com/products/leg...\n\nReptarium Support Options: Explore various ways to support through Merchandise, Donations, and \nAnimal Ambassador Sponsorships at The Reptarium: https://thereptarium.com/collections/merch-gift-cards-sponsorships\n\nReptile Army Merchandise: Show your support by shopping at Reptile Army: https://reptilearmy.com/\n\nMore Ways to Support: Consider supporting through BHB Reptiles: https://www.bhbreptiles.com/ and Reptile Prime: https://reptileprime.com/\n\nYour support in any form is invaluable to us during this period. With heartfelt gratitude,\n\nThe crew.\n\nFollow Noah: https://www.instagram.com/barczyknoah/\nSubscribe To Brian's Linktree: https://linktr.ee/brianbarczyk\nBecome A YouTube Member & Get Your Custom Badge: https://www.youtube.com/channel/UC4zS1wbO81p59CxKL7CQAcA/join\n\nAbout Brian Barczyk:\nHi! I'm Brian Barczyk, and I have been daily vlogging on YouTube since May 10, 2016 sharing my amazing life filled with animals. My journey here on YouTube and social media has been truly magnificent and magical. Since 2016, I've been part of TV network series, produced my own documentary in South Africa, traveled the world to meet incredible animals and animal lovers, started a podcast, created a convention for animal content creators, built and expanded The Reptarium - an interactive reptile Zoo in Utica, Michigan and so much more. \n\nIn March 2023, just as we were ready to break ground on our expanded facility, I received a life-altering diagnosis of inoperable Pancreatic Cancer. Despite the challenges and my fears, the amazing community we've built on YouTube over the last 7+ years has kept me inspired to continue sharing my journey.\n\nNow, I'm fully committed to building our expanded facility, Legasea Aquarium & The Reptarium, just across the street. This project represents resilience and the pursuit of dreams in difficult times. With the incredible support of our community, the #ReptileArmy, we're turning obstacles into opportunities. Together, let's create a brighter future for reptiles and all animals, inspiring others to embrace their passions in the face of adversity.\n\nJoin us on this inspiring journey of discovery, conservation, and hope. Together, we'll make a lasting impact and celebrate the extraordinary animal world.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Brian Barczyk",
+				"tags": [
+					"brian barczyk",
+					"legasea aquarium",
+					"legasea",
+					"legacy aquarium",
+					"aquarium",
+					"brian barczyk aquarium",
+					"brian barczyk the reptarium",
+					"brian barczyk proud",
+					"brian barczyk legacy",
+					"brian barczyk update",
+					"reptile army",
+					"michigan aquarium",
+					"michigan aquariums",
+					"brian barczyk aquariums",
+					"utica michigan",
+					"michigan news",
+					"newsworthy",
+					"update",
+					"videos",
+					"youtube home",
+					"video",
+					"brian barczyk videos",
+					"vlog",
+					"brian barczyk vlog",
+					"brian barczyk 2024"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Let's Make Dad Proud",
+					"description": "Noah Barczyk, the son of Brian Barczyk, shares an uplifting update about his father and his plans to advance and honor his dad's legacy in the future. \n#brianbarczyk #makedadproud #reptilearmy \n\nFollow Noah here: https://www.youtube.com/@UCzNBH8Ztsf5x7zHCdxJSE4A \n\nWe've received numerous requests from our compassionate followers seeking ways to support Brian and his loved ones. We're humbled by your generosity and have compiled a list of ways you can help:\n\n“Leave Your Legacy At LegaSea” Initiative: Become a part of Brian's vision by purchasing LegaSea Wall Plaques from The Reptarium: https://thereptarium.com/products/leg...\n\nReptarium Support Options: Explore various ways to support through Merchandise, Donations, and \nAnimal Ambassador Sponsorships at The Reptarium: https://thereptarium.com/collections/merch-gift-cards-sponsorships\n\nReptile Army Merchandise: Show your support by shopping at Reptile Army: https://reptilearmy.com/\n\nMore Ways to Support: Consider supporting through BHB Reptiles: https://www.bhbreptiles.com/ and Reptile Prime: https://reptileprime.com/\n\nYour support in any form is invaluable to us during this period. With heartfelt gratitude,\n\nThe crew.\n\nFollow Noah: https://www.instagram.com/barczyknoah/\nSubscribe To Brian's Linktree: https://linktr.ee/brianbarczyk\nBecome A YouTube Member & Get Your Custom Badge: https://www.youtube.com/channel/UC4zS1wbO81p59CxKL7CQAcA/join\n\nAbout Brian Barczyk:\nHi! I'm Brian Barczyk, and I have been daily vlogging on YouTube since May 10, 2016 sharing my amazing life filled with animals. My journey here on YouTube and social media has been truly magnificent and magical. Since 2016, I've been part of TV network series, produced my own documentary in South Africa, traveled the world to meet incredible animals and animal lovers, started a podcast, created a convention for animal content creators, built and expanded The Reptarium - an interactive reptile Zoo in Utica, Michigan and so much more. \n\nIn March 2023, just as we were ready to break ground on our expanded facility, I received a life-altering diagnosis of inoperable Pancreatic Cancer. Despite the challenges and my fears, the amazing community we've built on YouTube over the last 7+ years has kept me inspired to continue sharing my journey.\n\nNow, I'm fully committed to building our expanded facility, Legasea Aquarium & The Reptarium, just across the street. This project represents resilience and the pursuit of dreams in difficult times. With the incredible support of our community, the #ReptileArmy, we're turning obstacles into opportunities. Together, let's create a brighter future for reptiles and all animals, inspiring others to embrace their passions in the face of adversity.\n\nJoin us on this inspiring journey of discovery, conservation, and hope. Together, we'll make a lasting impact and celebrate the extraordinary animal world."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		}
+	],
+	"nextPageToken": "CBkQAA",
+	"pageInfo": {
+		"totalResults": 200,
+		"resultsPerPage": 25
+	}
+}
