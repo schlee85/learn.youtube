@@ -47,3 +47,11 @@ https://github.com/axios/axios
 ```
 yarn add axios
 ```
+
+### `timeago.js`
+
+https://github.com/hustcc/timeago.js/blob/master/README.md
+
+```
+yarn add timeago.js
+```
