@@ -1,1751 +1,1967 @@
 {
 	"kind": "youtube#videoListResponse",
-	"etag": "C-WTESdoEOApu5F8ix2z-qhSUJI",
+	"etag": "nzlBUinqGdDORS0xHSFbbMVupDQ",
 	"items": [
 		{
 			"kind": "youtube#video",
-			"etag": "qo0if2eldnK9r9LM9QmVwCbH20w",
-			"id": "HE6P2HDYlZs",
+			"etag": "-TyesykkYT6yCPc_cxCYRu5rbi8",
+			"id": "EIBUEN5VR2A",
 			"snippet": {
-				"publishedAt": "2024-01-08T04:27:30Z",
-				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
-				"title": "Will Ferrell & Kristen Wiig Present Male Actor – Motion Picture Musical/Comedy I 81st Golden Globes",
-				"description": "Will Ferrell & Kristen Wiig present Best Performance by a Male Actor in a Motion Picture – Musical or Comedy category at the 81st Annual Golden Globe Awards. #GoldenGlobes #WillFerrell #KristenWiig\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
+				"publishedAt": "2024-01-09T13:40:00Z",
+				"channelId": "UC9w-h_ciMmX64TcLRcb1xPg",
+				"title": "[25분 요약] (4화) 인생 2회차 시작하더니 미모도 폭발한 박민영😍 뒤에서 몰래 챙겨주는 조력자 나인우와 박민영의 설레는 썸의 시작...!?💗 | #내남편과결혼해줘",
+				"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#내남편과결혼해줘 #tvN #박민영 #나인우 #이이경 #송하윤 #이기광\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n1/15 [월] 밤 10시 30분 5화 방송\n\n#티빙에서스트리밍",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/default.jpg",
+						"url": "https://i.ytimg.com/vi/EIBUEN5VR2A/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/EIBUEN5VR2A/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/EIBUEN5VR2A/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/EIBUEN5VR2A/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					},
 					"maxres": {
-						"url": "https://i.ytimg.com/vi/HE6P2HDYlZs/maxresdefault.jpg",
+						"url": "https://i.ytimg.com/vi/EIBUEN5VR2A/maxresdefault.jpg",
 						"width": 1280,
 						"height": 720
 					}
 				},
-				"channelTitle": "Golden Globes",
+				"channelTitle": "tvN drama",
 				"tags": [
-					"Golden Globe Awards",
-					"Golden Globe Awards 2024",
-					"81st Golden Globe Awards",
-					"Jo Koy",
-					"The Beverly Hilton",
-					"CBS",
-					"Red Carpet",
-					"Dick Clark Productions",
-					"Eldridge Industries",
-					"Hollywood interviews",
-					"Cinema",
-					"Netflix",
-					"Movies",
-					"Film",
-					"Actress",
-					"Actor",
-					"Press",
-					"Association",
-					"Hollywood",
-					"2024 Nominees",
-					"Best Motion Picture",
-					"Best Performance",
-					"Best Director",
-					"Best Screeplay",
-					"Best Original Score",
-					"Best Original Song",
-					"Best Television Series",
-					"Barbenheimer",
-					"Will Ferrell",
-					"Kristen Wiig"
-				],
-				"categoryId": "1",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
-				"localized": {
-					"title": "Will Ferrell & Kristen Wiig Present Male Actor – Motion Picture Musical/Comedy I 81st Golden Globes",
-					"description": "Will Ferrell & Kristen Wiig present Best Performance by a Male Actor in a Motion Picture – Musical or Comedy category at the 81st Annual Golden Globe Awards. #GoldenGlobes #WillFerrell #KristenWiig\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "TIOeCS_1ipuH7sqBZkEY7SONuHk",
-			"id": "YbO9Vddn0FI",
-			"snippet": {
-				"publishedAt": "2024-01-08T17:00:07Z",
-				"channelId": "UCBgOGeH-NL4o2WGutwverqQ",
-				"title": "NBA YoungBoy on Fatherhood, Personal Growth, Therapy, & More - The Bootleg Kev Podcast",
-				"description": "Interview w/ NBA Youngboy  on The Bootleg Kev Podcast. \n\nShot & Edited by @Only1Xiris & MSTFA. \n\nSponsored By Imperial Extractions: https://bit.ly/bootlegkev // promo code: BOOTLEG\n\nGet 50% off of KING PALM at www.kingpalm.com promo code \"BOOTLEG\"\n\nGet your first month of BLUECHEW for FREE, use the promo code \"Bootleg\" or click here: https://go.bluechew.com/bootleg\n\nSupport ODDSOX, go to: https://www.oddsoxofficial.com & use the promo code \"BOOTLEGKEV\" for 20% off at Check Out",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/YbO9Vddn0FI/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Bootleg Kev",
-				"tags": [
-					"Bootleg Kev",
-					"Bootleg Kev Podcast",
-					"Bootleg Kev Interview",
-					"Hip Hop",
-					"Rap",
-					"How to Interview",
-					"How to Interview Hip Hop",
-					"How to Interview Rappers",
-					"Rapper Interviews",
-					"Hip Hop Podcast",
-					"Rap Podcast",
-					"Music Podcast",
-					"Hip Hop Interview",
-					"nba youngboy",
-					"young boy",
-					"young boy never broke again"
-				],
-				"categoryId": "10",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en-US",
-				"localized": {
-					"title": "NBA YoungBoy on Fatherhood, Personal Growth, Therapy, & More - The Bootleg Kev Podcast",
-					"description": "Interview w/ NBA Youngboy  on The Bootleg Kev Podcast. \n\nShot & Edited by @Only1Xiris & MSTFA. \n\nSponsored By Imperial Extractions: https://bit.ly/bootlegkev // promo code: BOOTLEG\n\nGet 50% off of KING PALM at www.kingpalm.com promo code \"BOOTLEG\"\n\nGet your first month of BLUECHEW for FREE, use the promo code \"Bootleg\" or click here: https://go.bluechew.com/bootleg\n\nSupport ODDSOX, go to: https://www.oddsoxofficial.com & use the promo code \"BOOTLEGKEV\" for 20% off at Check Out"
-				},
-				"defaultAudioLanguage": "en-US"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "DL1835sT6DWgFJW0vyxHBdoUTJ8",
-			"id": "OEgvRelGfOs",
-			"snippet": {
-				"publishedAt": "2024-01-08T08:29:33Z",
-				"channelId": "UCjDsbbzHgTrGc4Ff26TJtsA",
-				"title": "2024 Golden Globes RECAP: Viral Memes & Must-See Moments! | 2024 Golden Globes",
-				"description": "From Kylie Jenner and Timothée Chalamet packing on the PDA to Taylor Swift and Selena Gomez sharing secrets, here’s everything missed at the 2024 Golden Globes! Golden Globe® Awards clips provided by Golden Globes, LLC and Dick Clark Productions, LLC.\n\nFull Story: https://www.eonline.com/news/1392374/golden-globe-awards-2024-winners-the-complete-list?source=youtube&medium=enews\n\n#GoldenGlobes #GoldenGlobes2024 #ENews \n\nSubscribe: http://bit.ly/enewssub\n\nAbout E! News:\nThe E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.\n\nDownload The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017\n\nYour favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt\n\nConnect with E! News:\nVisit the E! News WEBSITE: http://eonli.ne/enews\nLike E! News on FACEBOOK: https://www.facebook.com/enews/\nCheck out E! News on INSTAGRAM: https://www.instagram.com/enews/\nFollow E! News on TWITTER: https://twitter.com/enews\n\nBillie Eilish Gets EMOTIONAL While Accepting Best Song Win For Barbie | 2024 Golden Globes\nhttp://www.youtube.com/user/enews",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/OEgvRelGfOs/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "E! News",
-				"tags": [
-					"E! News Now",
-					"BARBIE",
-					"BILLIE EILISH",
-					"BILLIE_EILISH",
-					"CILLIAN MURPHY",
-					"CILLIAN_MURPHY",
-					"KYLIE JENNER",
-					"KYLIE_JENNER",
-					"PARTNER AMAZON",
-					"SELENA GOMEZ",
-					"SELENA_GOMEZ",
-					"TAYLOR SWIFT",
-					"TAYLOR_SWIFT",
-					"TIMOTHEE_CHALAMET",
-					"TOP STORIES",
-					"WOCHIT",
-					"E! NEWS NOW",
-					"golden globes",
-					"golden globes 2024",
-					"emma stone",
-					"golden globe",
-					"golden globe awards",
-					"awards show",
-					"golden globes 2024 winners",
-					"golden globes red carpet 2024",
-					"golden globes 2024 barbie",
-					"chalamet",
-					"jenner",
-					"taylor swift",
-					"recap",
-					"golden globes recap"
-				],
-				"categoryId": "24",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "2024 Golden Globes RECAP: Viral Memes & Must-See Moments! | 2024 Golden Globes",
-					"description": "From Kylie Jenner and Timothée Chalamet packing on the PDA to Taylor Swift and Selena Gomez sharing secrets, here’s everything missed at the 2024 Golden Globes! Golden Globe® Awards clips provided by Golden Globes, LLC and Dick Clark Productions, LLC.\n\nFull Story: https://www.eonline.com/news/1392374/golden-globe-awards-2024-winners-the-complete-list?source=youtube&medium=enews\n\n#GoldenGlobes #GoldenGlobes2024 #ENews \n\nSubscribe: http://bit.ly/enewssub\n\nAbout E! News:\nThe E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.\n\nDownload The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017\n\nYour favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt\n\nConnect with E! News:\nVisit the E! News WEBSITE: http://eonli.ne/enews\nLike E! News on FACEBOOK: https://www.facebook.com/enews/\nCheck out E! News on INSTAGRAM: https://www.instagram.com/enews/\nFollow E! News on TWITTER: https://twitter.com/enews\n\nBillie Eilish Gets EMOTIONAL While Accepting Best Song Win For Barbie | 2024 Golden Globes\nhttp://www.youtube.com/user/enews"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "_Qk8KbhmK5JClwFk-LZmN7QQkhM",
-			"id": "KvSHHnucouo",
-			"snippet": {
-				"publishedAt": "2024-01-08T01:39:03Z",
-				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
-				"title": "Jo Koy Opening Monologue I 81st Annual Golden Globes",
-				"description": "Comedian Jo Koy welcomes everyone to the 81st Annual Golden Globe Awards. #GoldenGlobes #JoKoy #Opening\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/KvSHHnucouo/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/KvSHHnucouo/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/KvSHHnucouo/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/KvSHHnucouo/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/KvSHHnucouo/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Golden Globes",
-				"tags": [
-					"Golden Globe Awards",
-					"Golden Globe Awards 2024",
-					"81st Golden Globe Awards",
-					"Jo Koy",
-					"The Beverly Hilton",
-					"CBS",
-					"Red Carpet",
-					"Dick Clark Productions",
-					"Eldridge Industries",
-					"Hollywood interviews",
-					"Cinema",
-					"Netflix",
-					"Movies",
-					"Film",
-					"Actress",
-					"Actor",
-					"Press",
-					"Association",
-					"Hollywood",
-					"2024 Nominees",
-					"Best Motion Picture",
-					"Best Performance",
-					"Best Director",
-					"Best Screeplay",
-					"Best Original Score",
-					"Best Original Song",
-					"Best Television Series",
-					"Barbenheimer",
-					"Golden Globes Opening"
-				],
-				"categoryId": "1",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
-				"localized": {
-					"title": "Jo Koy Opening Monologue I 81st Annual Golden Globes",
-					"description": "Comedian Jo Koy welcomes everyone to the 81st Annual Golden Globe Awards. #GoldenGlobes #JoKoy #Opening\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "kWc6bPKfAxM-rJuZ7S1HeaJ-kMg",
-			"id": "TiDzMO19wq8",
-			"snippet": {
-				"publishedAt": "2024-01-07T22:19:06Z",
-				"channelId": "UCN5xN8gIljvWYnsj06V8WbQ",
-				"title": "The Hidden Lore Of Lethal Company",
-				"description": "Air up is having great bundles. Check it out yourself here:  https://airup.link/PyrocynicalJanuary\n\nI Stream Daily Here:  @PyrocynicalVEVO \n\nTwitter ► https://twitter.com/pyrocynical\nDiscord server ► https://discord.com/invite/pyrocynical\nInstagram ► https://www.instagram.com/pyrocynical/\n\nTBH Podcast: https://www.youtube.com/c/TBHpodcast\n\nPyro Store: https://pyrocynical.store/\n\nSubreddit ► https://www.reddit.com/r/pyrocynical\nInstagram ► http://instagram.com/pyrocynical\n\nwiki models by https://twitter.com/plrwutville",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/TiDzMO19wq8/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Pyrocynical",
-				"categoryId": "23",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "The Hidden Lore Of Lethal Company",
-					"description": "Air up is having great bundles. Check it out yourself here:  https://airup.link/PyrocynicalJanuary\n\nI Stream Daily Here:  @PyrocynicalVEVO \n\nTwitter ► https://twitter.com/pyrocynical\nDiscord server ► https://discord.com/invite/pyrocynical\nInstagram ► https://www.instagram.com/pyrocynical/\n\nTBH Podcast: https://www.youtube.com/c/TBHpodcast\n\nPyro Store: https://pyrocynical.store/\n\nSubreddit ► https://www.reddit.com/r/pyrocynical\nInstagram ► http://instagram.com/pyrocynical\n\nwiki models by https://twitter.com/plrwutville"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "ES4-L_WPn8CzdNoStW0mIYkqvag",
-			"id": "OEHHNITLURQ",
-			"snippet": {
-				"publishedAt": "2024-01-08T00:09:21Z",
-				"channelId": "UCzfScS0MkYf1EHTPFCYt79Q",
-				"title": "Trying Costco Food with Sam and Colby!",
-				"description": "VERY LIMITED MERCH! https://www.jakemerch.com\nMY SOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nsam and colby and i ate all hot food from costco. hot dog pizza chicken bake ya ya ya pretzel ya ya ya \n\nSub to sam and colby!\n@samandcolby \n\n\n#Jakewebber",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/OEHHNITLURQ/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Jake Webber",
-				"tags": [
-					"costco",
-					"costco deals",
-					"costco shopping",
-					"costco haul",
-					"costco new items",
-					"costco deals this week",
-					"shop with me costco",
-					"new costco finds",
-					"costco shop with me",
-					"costco new arrivals",
-					"costco best buys",
-					"costco new finds",
-					"costco shopping gina",
-					"costco sales this month",
-					"costco tips",
-					"ginas shopping life costco",
-					"new at costco",
-					"costco canada",
-					"costco new arrivals 2023",
-					"what to buy at costco",
-					"costco 2023",
-					"costco december 2023",
-					"costco australia",
-					"costco secrets",
-					"costco 2024"
-				],
-				"categoryId": "24",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "Trying Costco Food with Sam and Colby!",
-					"description": "VERY LIMITED MERCH! https://www.jakemerch.com\nMY SOCIAL PAGES\nInstagram: https://www.instagram.com/jakewebber9/\nTwitter: https://www.twitter.com/jakewebber9/\nTik Tok: https://tiktok.com/jakewebber9/\nMusic: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK\n\nMY SECOND CHANNEL:\nhttps://www.youtube.com/@JakeWebberLive\n\nsam and colby and i ate all hot food from costco. hot dog pizza chicken bake ya ya ya pretzel ya ya ya \n\nSub to sam and colby!\n@samandcolby \n\n\n#Jakewebber"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "lOp1Rgrzgkv1qiEUL7hdT1S8R2Y",
-			"id": "Na8i-SnGfqc",
-			"snippet": {
-				"publishedAt": "2024-01-08T18:00:19Z",
-				"channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
-				"title": "american dream: the 21 savage story | Official Trailer",
-				"description": "Official trailer for \"american dream: the 21 savage story\".\n\nPre-save and pre-order music inspired by the film at: http://AmericanDream21savage.com\n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\nHappy Place and Gilga present a Happy Place production Built by GilgaBox \n\nFeaturing: 21 Savage, Donald Glover, Caleb McLaughlin \n\nDirected by: Stephen Glover, Jamal Olori, Fam Udeorji, and Luis Perez\nWritten by: Jamal Olori and Stephen Glover\nProduced by: Tara Razavi and Fam Udeorji \nExecutive Producer: Tara Razavi and Fam Udeorji\nWith special appearances by: Gail Bean, Druski, Jabari Banks, Chad Lindberg, Victoria Pedretti, Young Mazino, Natasha Lyonne \n\n(C) 2024 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment \n\n#21Savage #americandream",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/Na8i-SnGfqc/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "21 Savage",
-				"tags": [
-					"21 savage",
-					"american dream",
-					"the 21 savage story",
-					"21 savage american dream",
-					"21 savage movie",
-					"21 savage american dream trailer",
-					"american dream trailer",
-					"21 savage official video",
-					"21 savage music video",
-					"21 savage music",
-					"rap",
-					"hip hop",
-					"atlanta rap",
-					"21 savage video",
-					"21 savage movie trailer",
-					"21 savage 2024",
-					"movies 2024",
-					"movie trailers 2024",
-					"new movies 2024",
-					"rap documentary",
-					"new movies",
-					"donald glover",
-					"american dream the 21 savage story",
-					"Caleb McLaughlin",
-					"21 savage donald glover"
-				],
-				"categoryId": "10",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "american dream: the 21 savage story | Official Trailer",
-					"description": "Official trailer for \"american dream: the 21 savage story\".\n\nPre-save and pre-order music inspired by the film at: http://AmericanDream21savage.com\n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\nHappy Place and Gilga present a Happy Place production Built by GilgaBox \n\nFeaturing: 21 Savage, Donald Glover, Caleb McLaughlin \n\nDirected by: Stephen Glover, Jamal Olori, Fam Udeorji, and Luis Perez\nWritten by: Jamal Olori and Stephen Glover\nProduced by: Tara Razavi and Fam Udeorji \nExecutive Producer: Tara Razavi and Fam Udeorji\nWith special appearances by: Gail Bean, Druski, Jabari Banks, Chad Lindberg, Victoria Pedretti, Young Mazino, Natasha Lyonne \n\n(C) 2024 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment \n\n#21Savage #americandream"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "zOUXU2IxXuD3c52P0eMd5xIetEs",
-			"id": "k3HSpn92YTQ",
-			"snippet": {
-				"publishedAt": "2024-01-07T22:29:26Z",
-				"channelId": "UCDDgfKQE3eaD1H08VHRAfig",
-				"title": "I'm A Dad Now...",
-				"description": "snapchat: @DDG",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/k3HSpn92YTQ/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					}
-				},
-				"channelTitle": "PontiacMadeDDG VLOGS",
-				"tags": [
-					"pontiac",
-					"pontiacmade",
-					"pontiacmadeddg",
-					"ddg",
-					"pontiacmadeddgvlogs",
-					"vlogs",
-					"vlog",
-					"ddg vlogs",
-					"ddg vlog",
-					"pontiac vlog",
-					"pontiac vlogs",
-					"pontiacmadeddg vlog",
-					"pontiacmadeddg vlogs",
-					"Family",
-					"family friendly",
-					"friendly",
-					"school",
-					"kids",
-					"ddg elon musk",
-					"ddg halle",
-					"halo",
-					"ddg halo",
-					"halle baby",
-					"halle halo",
-					"halle ddg baby"
-				],
-				"categoryId": "26",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "I'm A Dad Now...",
-					"description": "snapchat: @DDG"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "mJf1UXJIqWYXqng5ppA4pLhi9Q0",
-			"id": "XjbksrRUGck",
-			"snippet": {
-				"publishedAt": "2024-01-08T18:28:49Z",
-				"channelId": "UCGRZCH6GtfERsdX541uqmoQ",
-				"title": "OUR IVF JOURNEY: episode five",
-				"description": "Subscribe to stay updated!\n\nFOLLOW ALONG:\n\n+MY TIK TOK: https://bit.ly/2ThjuCH​​​\n+MY IG: https://www.instagram.com/jacimariesmith\n+MY PODCAST: https://apple.co/3cFTlFv\n+PODCAST IG: https://www.instagram.com/whatwesaidpodcast\n\n+My Amazon Storefront: https://www.amazon.com/shop/jacimariesmith",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/XjbksrRUGck/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/XjbksrRUGck/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/XjbksrRUGck/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/XjbksrRUGck/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/XjbksrRUGck/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Jaci Marie",
-				"tags": [
-					"jaci marie",
-					"jaci",
-					"Leif",
-					"jaci and Leif",
-					"travel couple",
-					"couple goals",
-					"photography",
-					"videography",
-					"Los Angeles",
-					"Southern California",
-					"photo",
-					"fall vlog",
-					"day in my life",
-					"week in my life",
-					"weekly vlog",
-					"what we said podcast",
-					"wiml",
-					"diml",
-					"new house",
-					"ivf",
-					"ivf vlog",
-					"infertility",
-					"fertility",
-					"jaci marie ivf vlog",
-					"jaci marie ivf",
-					"Leif and jaci ivf",
-					"egg retrieval",
-					"embryo transfer",
-					"Jaci ivf vlogs",
-					"jaci marie ivf journey",
-					"episode three",
-					"pregnant",
-					"pregnancy",
-					"first trimester"
-				],
-				"categoryId": "22",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "OUR IVF JOURNEY: episode five",
-					"description": "Subscribe to stay updated!\n\nFOLLOW ALONG:\n\n+MY TIK TOK: https://bit.ly/2ThjuCH​​​\n+MY IG: https://www.instagram.com/jacimariesmith\n+MY PODCAST: https://apple.co/3cFTlFv\n+PODCAST IG: https://www.instagram.com/whatwesaidpodcast\n\n+My Amazon Storefront: https://www.amazon.com/shop/jacimariesmith"
-				}
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "x-qRvZODYnf1K8BLA82xZvQa7QI",
-			"id": "q2eLOupmraQ",
-			"snippet": {
-				"publishedAt": "2024-01-08T13:58:08Z",
-				"channelId": "UC8CX0LD98EDXl4UYX1MDCXg",
-				"title": "RECKONING // Episode 8 Cinematic - VALORANT",
-				"description": "The truth... won't stay hidden forever.\n\nBring the fight and make them know your name in Episode 8: DEFIANCE.\n\nMade in partnership with Lightfarm Studios.\n—\nMUSIC\nArtist: YONAKA\nTrack: PREDATOR\nAdditional scoring: Ghostwriter Music\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/3Q3FBuu\nInstagram: https://riot.com/3K3tEBi\nTikTok: https://riot.com/44TSg7K \n\n#VALORANT #RIOTGAMES #DEFIANCE",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/q2eLOupmraQ/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "VALORANT",
-				"tags": [
-					"VALORANT",
-					"VAL",
-					"fps",
-					"shooters",
-					"tactical",
-					"launch",
-					"agent",
-					"agents",
-					"episode",
-					"ep",
-					"viii",
-					"act",
-					"trailer",
-					"cinematic",
-					"cg",
-					"video",
-					"teaser",
-					"new",
-					"story",
-					"narrative",
-					"reckoning",
-					"defiance",
-					"cypher",
-					"iso",
-					"sentinel",
-					"casablanca",
-					"morocco",
-					"jakarta",
-					"indonesia",
-					"sova",
-					"initiator",
-					"omen",
-					"controller",
-					"ghost",
-					"outlaw",
-					"out",
-					"law",
-					"weapon",
-					"twin",
-					"double",
-					"barrel",
-					"sniper",
-					"rifle",
-					"shrouded",
-					"step",
-					"viper",
-					"radianite",
-					"spycam",
-					"trapwire",
-					"neural",
-					"theft",
-					"owl",
-					"drone",
-					"recon",
-					"bolt",
-					"dart",
-					"paranoia",
-					"operator",
-					"hunters",
-					"fury",
-					"from",
-					"the",
-					"shadows"
+					"BOA",
+					"marry my husband",
+					"tvN",
+					"tvNDENT",
+					"tvN드라마",
+					"请和我的老公结婚",
+					"가족",
+					"결혼",
+					"결혼식",
+					"계약결혼",
+					"공민정",
+					"나인우",
+					"내 남편과 결혼해줘",
+					"내 남편과 결혼해줘 드라마",
+					"내 남편과 결혼해줘 웹툰",
+					"내남결",
+					"내남편과 결혼해줘 박민영",
+					"내남편과결혼해줘 3화",
+					"내남편과결혼해줘 결말",
+					"내남편과결혼해줘 몰아보기",
+					"내남편과결혼해줘 요약",
+					"도파민",
+					"로코드라마",
+					"며느리",
+					"바람",
+					"박민영",
+					"박원국",
+					"보아",
+					"보아 연기",
+					"복수",
+					"부부",
+					"사이다",
+					"송하윤",
+					"스드메",
+					"시어머니",
+					"시집살이",
+					"신유담",
+					"연애",
+					"월화드라마",
+					"웨딩드레스",
+					"웨딩투어",
+					"웨딩홀",
+					"이기광",
+					"이이경",
+					"이혼",
+					"인생 2회차",
+					"재혼",
+					"참교육",
+					"청첩장",
+					"커플",
+					"키스신",
+					"티비엔 드라마",
+					"파경",
+					"하이라이트",
+					"하이라이트 기광",
+					"환생극",
+					"환승연애",
+					"회귀물"
 				],
 				"categoryId": "20",
 				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
+				"defaultLanguage": "ko",
 				"localized": {
-					"title": "RECKONING // Episode 8 Cinematic - VALORANT",
-					"description": "The truth... won't stay hidden forever.\n\nBring the fight and make them know your name in Episode 8: DEFIANCE.\n\nMade in partnership with Lightfarm Studios.\n—\nMUSIC\nArtist: YONAKA\nTrack: PREDATOR\nAdditional scoring: Ghostwriter Music\n—\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/3Q3FBuu\nInstagram: https://riot.com/3K3tEBi\nTikTok: https://riot.com/44TSg7K \n\n#VALORANT #RIOTGAMES #DEFIANCE"
+					"title": "[25분 요약] (4화) 인생 2회차 시작하더니 미모도 폭발한 박민영😍 뒤에서 몰래 챙겨주는 조력자 나인우와 박민영의 설레는 썸의 시작...!?💗 | #내남편과결혼해줘",
+					"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#내남편과결혼해줘 #tvN #박민영 #나인우 #이이경 #송하윤 #이기광\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n1/15 [월] 밤 10시 30분 5화 방송\n\n#티빙에서스트리밍"
 				},
-				"defaultAudioLanguage": "en-US"
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "DCzYlToBQd3UzrXf7Ho5oEFwHvk",
-			"id": "DYLG65xz55U",
+			"etag": "D1iEsoHOzXTqnVGwfpX_KGkYjn4",
+			"id": "N6Wwc0nelDQ",
 			"snippet": {
-				"publishedAt": "2024-01-07T15:39:05Z",
-				"channelId": "UCme6XJ0pNj-zyVyYkAJikxw",
-				"title": "Guntur Kaaram Theatrical Trailer | Mahesh Babu, Sreeleela | Trivikram | Thaman",
-				"description": "Presenting you the Highly Inflammable Theatrical Trailer of #GunturKaaram ft. SUPERSTAR Mahesh Babu 🔥🔥\n\nWorldwide Grand Release on JAN 12th, 2024. 💥 #GunturKaaramOnJan12th \n\n'Guntur Kaaram' is our upcoming telugu feature film starring Superstar Mahesh Babu, Sree Leela in Lead roles. Directed by Trivikram. Music by Thaman S. Cinematography by Manoj Paramahamsa. Editing by Navin Nooli. Art by A.S Prakash. Produced by S Radha Krishna(Chinababu) Under Haarika & Hassine Creations.\n\nCast & Crew Details:\n\nStars: Super Star Mahesh Babu, Sree Leela, Meenakshi Chaudhary\nDirector: Trivikram\nMusic: Thaman S\nCinematography: Manoj Paramahamsa\nEditor: Navin Nooli\nArt Director - A.S. Prakash\nProducer: S. Radha Krishna(Chinababu)\nPresenter - Smt. Mamatha\nBanner - Haarika & Hassine Creations\n\n► Subscribe: http://bit.ly/HaarikaHassineOfficial\r\n► Like: https://facebook.com/HaarikaHassineOfficial\r\n► Follow: http://instagram.com/HaarikaHassineOfficial\r\n► Follow: https://twitter.com/HaarikaHassine",
+				"publishedAt": "2024-01-09T16:00:13Z",
+				"channelId": "UCsxbX6QnOLal_qzzMK9AR9g",
+				"title": "김다현 - 세월 베고 길게 누운 구름 한 조각｜현역가왕 7회 MBN 240109 방송",
+				"description": "현역가왕 7회 MBN 240109 방송\n\n한일 트롯 가왕전 국가대표 선발 서바이벌\n매주 화요일 밤 9시 50분 많은 관심 부탁드립니다♡\n \n#김다현#세월베고길게누운구름한조각#현역가왕\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/DYLG65xz55U/default.jpg",
+						"url": "https://i.ytimg.com/vi/N6Wwc0nelDQ/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/DYLG65xz55U/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/N6Wwc0nelDQ/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/DYLG65xz55U/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/N6Wwc0nelDQ/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/DYLG65xz55U/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/N6Wwc0nelDQ/sddefault.jpg",
 						"width": 640,
 						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/DYLG65xz55U/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
 					}
 				},
-				"channelTitle": "Haarika & Hassine Creations",
+				"channelTitle": "MBN MUSIC",
+				"tags": ["김다현", "세월베고길게누운구름한조각", "현역가왕"],
 				"categoryId": "24",
 				"liveBroadcastContent": "none",
 				"localized": {
-					"title": "Guntur Kaaram Theatrical Trailer | Mahesh Babu, Sreeleela | Trivikram | Thaman",
-					"description": "Presenting you the Highly Inflammable Theatrical Trailer of #GunturKaaram ft. SUPERSTAR Mahesh Babu 🔥🔥\n\nWorldwide Grand Release on JAN 12th, 2024. 💥 #GunturKaaramOnJan12th \n\n'Guntur Kaaram' is our upcoming telugu feature film starring Superstar Mahesh Babu, Sree Leela in Lead roles. Directed by Trivikram. Music by Thaman S. Cinematography by Manoj Paramahamsa. Editing by Navin Nooli. Art by A.S Prakash. Produced by S Radha Krishna(Chinababu) Under Haarika & Hassine Creations.\n\nCast & Crew Details:\n\nStars: Super Star Mahesh Babu, Sree Leela, Meenakshi Chaudhary\nDirector: Trivikram\nMusic: Thaman S\nCinematography: Manoj Paramahamsa\nEditor: Navin Nooli\nArt Director - A.S. Prakash\nProducer: S. Radha Krishna(Chinababu)\nPresenter - Smt. Mamatha\nBanner - Haarika & Hassine Creations\n\n► Subscribe: http://bit.ly/HaarikaHassineOfficial\r\n► Like: https://facebook.com/HaarikaHassineOfficial\r\n► Follow: http://instagram.com/HaarikaHassineOfficial\r\n► Follow: https://twitter.com/HaarikaHassine"
+					"title": "김다현 - 세월 베고 길게 누운 구름 한 조각｜현역가왕 7회 MBN 240109 방송",
+					"description": "현역가왕 7회 MBN 240109 방송\n\n한일 트롯 가왕전 국가대표 선발 서바이벌\n매주 화요일 밤 9시 50분 많은 관심 부탁드립니다♡\n \n#김다현#세월베고길게누운구름한조각#현역가왕\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr"
 				},
-				"defaultAudioLanguage": "te"
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "qSHOnNAXAtoulMxYADJwEehnFI4",
-			"id": "tJ8pHcdGqoo",
+			"etag": "se5TqSQjjMr_KNqb_0jIVDc1X0Y",
+			"id": "BQPUwvOg0cI",
 			"snippet": {
-				"publishedAt": "2024-01-07T19:46:39Z",
-				"channelId": "UCGTKwjs1ctvgwCRa67RNO-Q",
-				"title": "We’re Building The World’s Biggest Wrecker!",
-				"description": "My favorite mapping service available! \nDon’t miss you! \n\nhttps://www.onxmaps.com/offroad/elite/beanie-giveaway?utm_source=social+channels&utm_medium=ambassador&utm_campaign=HeavyD&utm_content=jan+beanie+giveaway\n\nAlso big thanks to @JACKKNIFEMOTORS for this custom Ram! These guys absolutely crushed it on this build and I’m excited to put it to the test! Do me a huge favor and give them a follow:@JACKKNIFEMOTORS \n\nCheckout our other channel for more in depth detail about this build! @SparksMotorsCo \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #dieseldave #dieselbrothers",
+				"publishedAt": "2024-01-08T13:40:00Z",
+				"channelId": "UC9w-h_ciMmX64TcLRcb1xPg",
+				"title": "[25분 요약] (3화) 전생의 흑역사 지우고 새 역사 쓰는 박민영의 화려한 변신🔥 학교폭력 했던 가해자들 모인 동창회에서 화끈하게 참교육💥 | #내남편과결혼해줘",
+				"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#내남편과결혼해줘 #tvN #박민영 #나인우 #이이경 #송하윤 #이기광\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n매주 [월,화] 저녁 8시 50분 본 방송\n\n#티빙에서스트리밍",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/default.jpg",
+						"url": "https://i.ytimg.com/vi/BQPUwvOg0cI/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/BQPUwvOg0cI/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/BQPUwvOg0cI/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/BQPUwvOg0cI/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					},
 					"maxres": {
-						"url": "https://i.ytimg.com/vi/tJ8pHcdGqoo/maxresdefault.jpg",
+						"url": "https://i.ytimg.com/vi/BQPUwvOg0cI/maxresdefault.jpg",
 						"width": 1280,
 						"height": 720
 					}
 				},
-				"channelTitle": "HeavyDSparks",
+				"channelTitle": "tvN drama",
 				"tags": [
-					"gta 5 tow truck roleplay",
-					"towing",
-					"snowrunner",
-					"trailers",
-					"family friendly",
-					"no swearing",
-					"Recovery",
-					"Diesel",
-					"Diesel brothers",
-					"Heavy equipment",
-					"Whistlindiesel",
-					"Cleetus McFarland",
-					"Demolition ranch",
-					"Matt’s Offroad",
-					"Mud",
-					"Adventure",
-					"For you",
-					"Heavydsparks",
-					"Sparks motors",
-					"Freedom bus",
-					"Dirt",
-					"Dirt work",
-					"Tractor",
-					"Dave sparks",
-					"Diesel Dave",
-					"tow truck",
-					"wrecker",
-					"blue collar",
-					"excavator",
-					"equipment",
-					"heavy duty",
-					"dozer",
-					"hunting",
-					"hellcat",
-					"JEEP",
-					"snowcat",
-					"oshkosh",
-					"auction",
-					"govplanet",
-					"public surplus",
-					"abandoned",
-					"storage unit"
+					"BOA",
+					"marry my husband",
+					"tvN",
+					"tvNDENT",
+					"tvN드라마",
+					"请和我的老公结婚",
+					"가족",
+					"결혼",
+					"결혼식",
+					"계약결혼",
+					"공민정",
+					"나인우",
+					"내 남편과 결혼해줘",
+					"내 남편과 결혼해줘 드라마",
+					"내 남편과 결혼해줘 웹툰",
+					"내남결",
+					"내남편과 결혼해줘 박민영",
+					"내남편과결혼해줘 3화",
+					"내남편과결혼해줘 결말",
+					"내남편과결혼해줘 몰아보기",
+					"내남편과결혼해줘 요약",
+					"도파민",
+					"로코드라마",
+					"며느리",
+					"바람",
+					"박민영",
+					"박원국",
+					"보아",
+					"보아 연기",
+					"복수",
+					"부부",
+					"사이다",
+					"송하윤",
+					"스드메",
+					"시어머니",
+					"시집살이",
+					"신유담",
+					"연애",
+					"월화드라마",
+					"웨딩드레스",
+					"웨딩투어",
+					"웨딩홀",
+					"이기광",
+					"이이경",
+					"이혼",
+					"인생 2회차",
+					"재혼",
+					"참교육",
+					"청첩장",
+					"커플",
+					"키스신",
+					"티비엔 드라마",
+					"파경",
+					"하이라이트",
+					"하이라이트 기광",
+					"환생극",
+					"환승연애",
+					"회귀물"
 				],
-				"categoryId": "24",
+				"categoryId": "20",
 				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
 				"localized": {
-					"title": "We’re Building The World’s Biggest Wrecker!",
-					"description": "My favorite mapping service available! \nDon’t miss you! \n\nhttps://www.onxmaps.com/offroad/elite/beanie-giveaway?utm_source=social+channels&utm_medium=ambassador&utm_campaign=HeavyD&utm_content=jan+beanie+giveaway\n\nAlso big thanks to @JACKKNIFEMOTORS for this custom Ram! These guys absolutely crushed it on this build and I’m excited to put it to the test! Do me a huge favor and give them a follow:@JACKKNIFEMOTORS \n\nCheckout our other channel for more in depth detail about this build! @SparksMotorsCo \n\nYou can win one of my personal vehicles by subscribing to all of my channels right now!\nhttps://www.youtube.com/c/HeavyDSparks\nhttps://www.youtube.com/c/HeavyChecklist\nhttps://www.youtube.com/@heavydsparksespanol\n\nAdvertising and partnership inquiries email info@heavydsparks.com\n\nFollow Me on Insta: https://www.instagram.com/heavydsparks\n\n#heavydsparks #dieseldave #dieselbrothers"
+					"title": "[25분 요약] (3화) 전생의 흑역사 지우고 새 역사 쓰는 박민영의 화려한 변신🔥 학교폭력 했던 가해자들 모인 동창회에서 화끈하게 참교육💥 | #내남편과결혼해줘",
+					"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#내남편과결혼해줘 #tvN #박민영 #나인우 #이이경 #송하윤 #이기광\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n매주 [월,화] 저녁 8시 50분 본 방송\n\n#티빙에서스트리밍"
 				},
-				"defaultAudioLanguage": "en"
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "SHwD8d6FgeZkC_buCr71AOzuOwM",
-			"id": "uzQZ-ilS1ps",
+			"etag": "YDTnB6B7y_ezr_2tVxzJ7URTNxY",
+			"id": "4KmG9YQWYRI",
 			"snippet": {
-				"publishedAt": "2024-01-08T02:18:22Z",
-				"channelId": "UCjK0F1DopxQ5U0sCwOlXwOg",
-				"title": "He Was Robbed",
-				"description": "FACT CHECK SHEET ►https://bit.ly/MogulMailCorrections\nfollow me on twitter ► https://www.twitter.com/ludwigahgren\nfollow me on tiktok ► https://www.tiktok.com/@ludwigahgren\nfollow me on instagram ► https://www.instagram.com/ludwigahgren\njoin my subreddit ► https://old.reddit.com/r/LudwigAhgren/\nLINK TO EVERYTHING ► https://wlo.link/@ludwig\n\nThis Video Took 13.1 Takes\n\n#mogulmail #ludwig",
+				"publishedAt": "2024-01-09T11:11:53Z",
+				"channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+				"title": "“차 타세요” 9초 뒤 쓰나미…운전자 촉이 생사 갈랐다 | 뉴스A",
+				"description": "“차 타세요” 9초 뒤 쓰나미…운전자 촉이 생사 갈랐다\n\n일본 이시카와현 강진 발생 9일째인데요. 당시 한 할머니가 구조되는 영상이 새로 공개됐는데요. 쓰나미가 몰려오기 직전 단 9초가 생사를 갈랐습니다. 도쿄에서 김민지 특파원입니다.\n\n○ 기사 보기\nhttps://www.ichannela.com/news/main/news_detailPage.do?publishId=000000387281\n\n▶채널A뉴스 구독\nhttps://www.youtube.com/tvchanews?sub_confirmation=1\n\n[채널A 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n〈평일〉\n08시 00분 라디오쇼 정치시그널 (유튜브 라이브)\n08시 50분 김진의 돌직구 쇼\n10시 20분 김진의 더라방 (유튜브 라이브)\n12시 00분 뉴스A 라이브\n15시 50분 강력한 4팀\n17시 20분 뉴스TOP10\n19시 00분 뉴스A\n\n〈주말〉\n12시 00분 토요랭킹쇼·뉴스A 라이브\n17시 40분 뉴스TOP10\n19시 00분 뉴스A\n\n#채널A뉴스 #이시카와현 #구조\n\n▷ 홈페이지 http://www.ichannela.com/news/main/news_main.do\n▷ 페이스북 https://www.facebook.com/channelanews\n▷ 카카오스토리 https://story.kakao.com/ch/channelanews",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/default.jpg",
+						"url": "https://i.ytimg.com/vi/4KmG9YQWYRI/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/4KmG9YQWYRI/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/4KmG9YQWYRI/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/uzQZ-ilS1ps/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					}
-				},
-				"channelTitle": "Mogul Mail",
-				"tags": [
-					"ludwig",
-					"ahgren",
-					"stream",
-					"weekly slap",
-					"jschlatt",
-					"story time",
-					"twitch",
-					"live",
-					"mogul",
-					"mail"
-				],
-				"categoryId": "22",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "He Was Robbed",
-					"description": "FACT CHECK SHEET ►https://bit.ly/MogulMailCorrections\nfollow me on twitter ► https://www.twitter.com/ludwigahgren\nfollow me on tiktok ► https://www.tiktok.com/@ludwigahgren\nfollow me on instagram ► https://www.instagram.com/ludwigahgren\njoin my subreddit ► https://old.reddit.com/r/LudwigAhgren/\nLINK TO EVERYTHING ► https://wlo.link/@ludwig\n\nThis Video Took 13.1 Takes\n\n#mogulmail #ludwig"
-				}
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "uY_2rHJ3d4oOEhbMvheQ_cD4gMc",
-			"id": "o3CJbfYSo_E",
-			"snippet": {
-				"publishedAt": "2024-01-07T19:06:53Z",
-				"channelId": "UC5Qbo0AR3CwpmEq751BIy0g",
-				"title": "10 Things You SHOULD Be Buying at Costco in January 2024",
-				"description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco January 2024!\n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco December Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity or FoodTheory, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2024 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2024. I hope you enjoy this 2024 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/4KmG9YQWYRI/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					},
 					"maxres": {
-						"url": "https://i.ytimg.com/vi/o3CJbfYSo_E/maxresdefault.jpg",
+						"url": "https://i.ytimg.com/vi/4KmG9YQWYRI/maxresdefault.jpg",
 						"width": 1280,
 						"height": 720
 					}
 				},
-				"channelTitle": "The Deal Guy",
+				"channelTitle": "채널A 뉴스",
 				"tags": [
-					"the deal guy",
-					"costco",
-					"costco store",
-					"costco secrets",
-					"costco haul",
-					"costco shopping",
-					"costco shop with me",
-					"flavcity",
-					"costco tips",
-					"costco shopping secrets",
-					"costco canada",
-					"costco australia",
-					"costco deals",
-					"costco 2024",
-					"2024 costco",
-					"what to buy at costco",
-					"10 things you should buy at costco",
-					"Things You Should ALWAYS Buy at Costco",
-					"best things costco",
-					"costco shopping 2024",
-					"new at costco",
-					"costco december 2024",
-					"costco december",
-					"december costco",
-					"december costco 2024",
-					"shopping"
-				],
-				"categoryId": "28",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "10 Things You SHOULD Be Buying at Costco in January 2024",
-					"description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco January 2024!\n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco December Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity or FoodTheory, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2024 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2024. I hope you enjoy this 2024 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "1wuRFhxtamHnfTxspERTInc53OY",
-			"id": "a6vkaryZdl8",
-			"snippet": {
-				"publishedAt": "2024-01-07T20:08:50Z",
-				"channelId": "UCt_DaLB_NDqPVxezyvcfRtg",
-				"title": "Playing Fortnite With My Favorite Creators",
-				"description": "Playing Fortnite With My Favorite Creators\n\n➽Channel Subscription Link: https://www.youtube.com/c/LARRAY?sub_confirmation=1\n\nI tried my best to bring the video to life, I hope you guys enjoy it seriously. Welcome t\n\nNick: https://www.youtube.com/@UCjVLCcrQsYX7Lu98pOcP3GA \nBen: https://www.youtube.com/@UC_UnVDztkvE1hw064XFTNSQ \nQuackity: https://www.youtube.com/@UC_8NknAFiyhOUaZqHR3lq3Q \n\n my fragrance house of 8: https://www.houseof8.co\n..Follow my socials:\n➽Twitter: https://twitter.com/larray\n➽Instagram:https://www.instagram.com/larray/\n➽spotify: https://open.spotify.com/artist/0rQjJ...\n➽Facebook: https://www.facebook.com/larrayxo\n➽Join my discord: discord.gg/larray \n➽Snapchat: Larrayxo\n➽Tumblr: http://larrayxo.tumblr.com/\n\nlove YOU \n-larri\n\n#Larray #PlayingFortnite #LarrayVlog",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/a6vkaryZdl8/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "LARRAY",
-				"tags": [
-					"Larray",
-					"Larray Playing Fortnite",
-					"Playing Fortnite with my Favorite Creators",
-					"LARRAY",
-					"QUACKITY",
-					"BEN OF THE WEEK",
-					"nick sturniolo",
-					"Fortnite",
-					"playing games",
-					"comedy",
-					"larray Fortnite"
-				],
-				"categoryId": "22",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
-				"localized": {
-					"title": "Playing Fortnite With My Favorite Creators",
-					"description": "Playing Fortnite With My Favorite Creators\n\n➽Channel Subscription Link: https://www.youtube.com/c/LARRAY?sub_confirmation=1\n\nI tried my best to bring the video to life, I hope you guys enjoy it seriously. Welcome t\n\nNick: https://www.youtube.com/@UCjVLCcrQsYX7Lu98pOcP3GA \nBen: https://www.youtube.com/@UC_UnVDztkvE1hw064XFTNSQ \nQuackity: https://www.youtube.com/@UC_8NknAFiyhOUaZqHR3lq3Q \n\n my fragrance house of 8: https://www.houseof8.co\n..Follow my socials:\n➽Twitter: https://twitter.com/larray\n➽Instagram:https://www.instagram.com/larray/\n➽spotify: https://open.spotify.com/artist/0rQjJ...\n➽Facebook: https://www.facebook.com/larrayxo\n➽Join my discord: discord.gg/larray \n➽Snapchat: Larrayxo\n➽Tumblr: http://larrayxo.tumblr.com/\n\nlove YOU \n-larri\n\n#Larray #PlayingFortnite #LarrayVlog"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "UBPUfhK62cq5xspzSk4vvwTHXbY",
-			"id": "5csvkVi39VI",
-			"snippet": {
-				"publishedAt": "2024-01-07T18:53:10Z",
-				"channelId": "UClQ3NafOy_42dJ0toK3QUKw",
-				"title": "Eating GIANT vs TINY Food Challenge!",
-				"description": "The boys cooked GIANT vs TINY food…\n\nMAIN CHANNEL: https://www.youtube.com/channel/UCwVg9btOceLQuNCdoQk9CXg\n\nBUY THE MERCH: https://staywildshop.com\n\nOUR SOCIALS:\nBen Azelart: @BenAzelart \nDerek Days: @DerekDays \nCam Huff: @CamHuff \n\nNEW EPISODES EVERY WEEK!!",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/5csvkVi39VI/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/5csvkVi39VI/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/5csvkVi39VI/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/5csvkVi39VI/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/5csvkVi39VI/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Stay Wild Vlogs",
-				"tags": [
-					"Ben Azelart",
-					"Brent Rivera",
-					"Pierson Wodzynski",
-					"Derek Days",
-					"StayWild",
-					"Stay Wild",
-					"Ben Azelart Podcast",
-					"Lexi Rivera",
-					"Lexi Hensler",
-					"Stokes Twins",
-					"Alan Stokes",
-					"Alex Stokes",
-					"Jeremy Hutchins",
-					"Sofie Dossi",
-					"Dom Brack",
-					"Amp Squad",
-					"TikTok",
-					"Bexi",
-					"Brierson",
-					"Lexi Rivera Boyfriend",
-					"Ben Azelart Girlfriend",
-					"Ben and Lexi",
-					"Brent and Pierson",
-					"Andrew Davila",
-					"Cam Huff",
-					"Dereks Days",
-					"Stay Wild Vlogs"
-				],
-				"categoryId": "24",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "Eating GIANT vs TINY Food Challenge!",
-					"description": "The boys cooked GIANT vs TINY food…\n\nMAIN CHANNEL: https://www.youtube.com/channel/UCwVg9btOceLQuNCdoQk9CXg\n\nBUY THE MERCH: https://staywildshop.com\n\nOUR SOCIALS:\nBen Azelart: @BenAzelart \nDerek Days: @DerekDays \nCam Huff: @CamHuff \n\nNEW EPISODES EVERY WEEK!!"
-				}
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "AdM2G6LZX5TwJqBD93xCnyhW45U",
-			"id": "xt3tdfp9FJo",
-			"snippet": {
-				"publishedAt": "2024-01-07T18:35:44Z",
-				"channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
-				"title": "⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
-				"description": "Liverpool advance past Arsenal in the FA Cup courtesy of a late second-half own goal from Jakub Kiwior and then a stoppage time goal from Luis Diaz.\n#ESPNFC #espnfc #FACup \n\n✔ Subscribe to ESPN+: http://espnplus.com/soccer/youtube\n✔ Subscribe to ESPN FC on YouTube: http://bit.ly/SUBSCRIBEtoESPNFC",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/xt3tdfp9FJo/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "ESPN FC",
-				"tags": [
-					"⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
-					"ESPN FC",
-					"ESPN FC TV",
-					"espn fc full",
-					"espn fc full show",
-					"espn fc show",
-					"espn fc today",
-					"ESPNFC",
-					"#ESPNFC",
-					"soccer on espn",
-					"espn fc soccer",
-					"soccer highlights",
-					"espn soccer",
-					"Arsenal vs",
-					"arsenal vs liverpool",
-					"arsenal vs liverpool highlights",
-					"liverpool highlights",
-					"liverpool fc",
-					"liverpool fa cup",
-					"liverpool fa cup highlights",
-					"arsenal fa cup",
-					"arsenal fa cup highlights",
-					"espn fc fa cup"
-				],
-				"categoryId": "17",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "⏰ LATE DRAMA! ⏰ Arsenal vs. Liverpool | FA Cup Highlights | ESPN FC",
-					"description": "Liverpool advance past Arsenal in the FA Cup courtesy of a late second-half own goal from Jakub Kiwior and then a stoppage time goal from Luis Diaz.\n#ESPNFC #espnfc #FACup \n\n✔ Subscribe to ESPN+: http://espnplus.com/soccer/youtube\n✔ Subscribe to ESPN FC on YouTube: http://bit.ly/SUBSCRIBEtoESPNFC"
-				}
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "qlxBmIFB3yW0cj8gfukgBRl_N4A",
-			"id": "hIfSpFn-klo",
-			"snippet": {
-				"publishedAt": "2024-01-07T16:08:28Z",
-				"channelId": "UCUU3GdGuQshZFRGnxAPBf_w",
-				"title": "100 VEHICLES in LEGO...",
-				"description": "From vehicles on land, to water, all the way to air, I build 100 different modes of transportation with Lego...\n\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Psychosis: https://www.youtube.com/@prodbypsychosis\n\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/hIfSpFn-klo/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "TD BRICKS",
-				"tags": [
-					"lego airplane",
-					"lego boat",
-					"lego car",
-					"lego lamborghini",
-					"lego police car",
-					"lego monwheel",
-					"lego motorcycle",
-					"lego fighter jet",
-					"lego tesla",
-					"lego monster truck",
-					"lego star wars",
-					"lego moc",
-					"lego creation",
-					"lego movie",
-					"lego set",
-					"lego sets",
-					"lego school bus",
-					"lego yacht",
-					"lego roller coaster",
-					"lego train",
-					"lego submarine",
-					"lego titanic",
-					"lego cybertruck",
-					"lego vehicles",
-					"100 lego vehicles",
-					"lego modes of transportation",
-					"lego build",
-					"lego building",
-					"lego tank",
-					"lego helicopter"
-				],
-				"categoryId": "24",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
-				"localized": {
-					"title": "100 VEHICLES in LEGO...",
-					"description": "From vehicles on land, to water, all the way to air, I build 100 different modes of transportation with Lego...\n\n\n🎥 INSTAGRAM for BTS, sneak peaks, updates, announcements: https://www.instagram.com/td_the_creator/\n\n\n📱TIKTOK: tiktok.com/@td_the_creator\n\n\n✉️ EMAIL for business: td.brickz@gmail.com\n\n\n🎶 MUSIC credits:\nEpidemic Sound: https://share.epidemicsound.com/c3oiyn\nBeats from Psychosis: https://www.youtube.com/@prodbypsychosis\n\n\nFrequently asked questions:\nWhere do I buy my Lego?\n- Bricklink.com and Lego store pick a brick wall\nDo I have instructions for my Lego builds?\n- No\nWhat software do I use to edit my videos?\n-  Final Cut Pro X\nWhat gear do I use to film/record my videos?\n- Canon EOS R8, RODE VideoMic Go"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "VGDKYfT5JUZG2AkuL8gxQE7itlY",
-			"id": "p8HtYK7jqgQ",
-			"snippet": {
-				"publishedAt": "2024-01-08T01:50:27Z",
-				"channelId": "UCvdrYSJ1itgZEH19wWnSHcg",
-				"title": "Robert Downey Jr Wins Best Supporting Male Actor – Motion Picture I 81st Annual Golden Globes",
-				"description": "Robert Downey Jr. accepts the Best Performance by a Male Actor in a Supporting Role in any Motion Picture award for \"Oppenheimer\" at the 81st Annual Golden Globe Awards. #GoldenGlobes #RobertDowneyJr #Oppenheimer\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/p8HtYK7jqgQ/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Golden Globes",
-				"tags": [
-					"Golden Globe Awards",
-					"Golden Globe Awards 2024",
-					"81st Golden Globe Awards",
-					"Jo Koy",
-					"The Beverly Hilton",
-					"CBS",
-					"Red Carpet",
-					"Dick Clark Productions",
-					"Eldridge Industries",
-					"Hollywood interviews",
-					"Cinema",
-					"Netflix",
-					"Movies",
-					"Film",
-					"Actress",
-					"Actor",
-					"Press",
-					"Association",
-					"Hollywood",
-					"2024 Nominees",
-					"Best Motion Picture",
-					"Best Performance",
-					"Best Director",
-					"Best Screeplay",
-					"Best Original Score",
-					"Best Original Song",
-					"Best Television Series",
-					"Barbenheimer",
-					"Robert Downey Jr",
-					"Oppenheimer",
-					"Best Supporting Male Actor"
-				],
-				"categoryId": "1",
-				"liveBroadcastContent": "none",
-				"defaultLanguage": "en",
-				"localized": {
-					"title": "Robert Downey Jr Wins Best Supporting Male Actor – Motion Picture I 81st Annual Golden Globes",
-					"description": "Robert Downey Jr. accepts the Best Performance by a Male Actor in a Supporting Role in any Motion Picture award for \"Oppenheimer\" at the 81st Annual Golden Globe Awards. #GoldenGlobes #RobertDowneyJr #Oppenheimer\n\nStill haven't subscribed to Golden Globes on YouTube?  ►►http://www.youtube.com/GoldenGlobes\r\n\r\nCONNECT WITH US\r\nWEB: http://www.goldenglobes.com\r\nFacebook: http://www.facebook.com/GoldenGlobes\r\nTwitter: http://twitter.com/goldenglobes\r\nInstagram: http://www.instagram.com/goldenglobes/"
-				},
-				"defaultAudioLanguage": "en"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "6LN1_Yr_gEv3JK2YmVlC6Xa0wbE",
-			"id": "kUq92vKPJRU",
-			"snippet": {
-				"publishedAt": "2024-01-07T22:04:01Z",
-				"channelId": "UC1FbPiXx59_ltnFVx7IxWow",
-				"title": "'Now Is The Time To Prepare': Powerful Winter Storm Could Spark Power Outages Along East Coast",
-				"description": "We're tracking the next winter storm that will be bigger than the weekend nor'easter. FOX Weather meteorologist Craig Herrera has what you need to know. #foxweather #weather #winterstorm  \n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device.",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/kUq92vKPJRU/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "FOX Weather",
-				"tags": [
-					"craig herrera",
-					"flooding",
-					"fox weather",
-					"power outages",
-					"rain",
-					"snow",
-					"weather",
-					"winter",
-					"winter storm",
-					"snow storm",
-					"winter storm 2024",
-					"winter storm warning",
-					"fox weather live",
-					"fox weather channel",
-					"power outages today"
+					"구조",
+					"쓰나미",
+					"운전자",
+					"채널A",
+					"cosjfdpdl",
+					"cosjfㅁ",
+					"채넒",
+					"channela",
+					"cosjfa",
+					"채널a 뉴스",
+					"채널에이 뉴스",
+					"채널a news",
+					"channela news",
+					"cosjfdpdlsbtm",
+					"뉴스",
+					"취재",
+					"실시간",
+					"시사",
+					"news",
+					"뉴스a",
+					"뉴스에이",
+					"newsa",
+					"sbtmdpdl"
 				],
 				"categoryId": "25",
 				"liveBroadcastContent": "none",
 				"localized": {
-					"title": "'Now Is The Time To Prepare': Powerful Winter Storm Could Spark Power Outages Along East Coast",
-					"description": "We're tracking the next winter storm that will be bigger than the weekend nor'easter. FOX Weather meteorologist Craig Herrera has what you need to know. #foxweather #weather #winterstorm  \n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device."
-				}
+					"title": "“차 타세요” 9초 뒤 쓰나미…운전자 촉이 생사 갈랐다 | 뉴스A",
+					"description": "“차 타세요” 9초 뒤 쓰나미…운전자 촉이 생사 갈랐다\n\n일본 이시카와현 강진 발생 9일째인데요. 당시 한 할머니가 구조되는 영상이 새로 공개됐는데요. 쓰나미가 몰려오기 직전 단 9초가 생사를 갈랐습니다. 도쿄에서 김민지 특파원입니다.\n\n○ 기사 보기\nhttps://www.ichannela.com/news/main/news_detailPage.do?publishId=000000387281\n\n▶채널A뉴스 구독\nhttps://www.youtube.com/tvchanews?sub_confirmation=1\n\n[채널A 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n〈평일〉\n08시 00분 라디오쇼 정치시그널 (유튜브 라이브)\n08시 50분 김진의 돌직구 쇼\n10시 20분 김진의 더라방 (유튜브 라이브)\n12시 00분 뉴스A 라이브\n15시 50분 강력한 4팀\n17시 20분 뉴스TOP10\n19시 00분 뉴스A\n\n〈주말〉\n12시 00분 토요랭킹쇼·뉴스A 라이브\n17시 40분 뉴스TOP10\n19시 00분 뉴스A\n\n#채널A뉴스 #이시카와현 #구조\n\n▷ 홈페이지 http://www.ichannela.com/news/main/news_main.do\n▷ 페이스북 https://www.facebook.com/channelanews\n▷ 카카오스토리 https://story.kakao.com/ch/channelanews"
+				},
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "_G5ZwfcMYEsV3WYyw75abHaBdD0",
-			"id": "YFbno_aPm0w",
+			"etag": "GRnYtSX24G9LOelCjNt6xyTElm0",
+			"id": "i7nQ0EPOwhA",
 			"snippet": {
-				"publishedAt": "2024-01-07T01:00:13Z",
-				"channelId": "UCdAHaWcKdpbT5XkN2Er6BUQ",
-				"title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
-				"description": "TVアニメ「ONE PIECE」毎週日曜朝9:30よりフジテレビほかにて放送中！\n2024年1月7日より、きただにひろしが歌う「あーーっす！」がオープニングテーマになりました。\n\nタイトル：あーーっす！\n作詞：藤林聖子\n作曲：田中公平\n編曲：中村 博\n\n先行配信：2024年1月8日 AM0:00（予定）\nCDリリース：2024年4月10日（水）\n\n価格：\nCD＋Blu-ray：\\2,200 (税込)\nCD＋DVD： \\2,200 (税込)\nCDのみ：\\1,650(税込)\n\n作詞：藤林聖子、作曲：田中公平による「ウィーアー！」の正統後継作。\n「あーーっす！」含め4曲収録のほか、初のミュージックビデオを収録予定。\n\n#ONEPIECE",
+				"publishedAt": "2024-01-09T09:00:34Z",
+				"channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+				"title": "\"정민아 짜증난 거 아니지..?ㅎㅎ\" 쫄병 박정민과의 기기괴괴한 겨울 축제로구나.. [라면꼰대5] EP.10",
+				"description": "“우리는 적을 가끔(?) 좋아할 수 있어!”\n파김치 갱 대장 & 배도라지 쫄병이 공존하는 겨울 축제..\n\n한창 즐기던 정민을 찾아온 깜짝 손님..!\n이 분이 왜 여기에..?🫨\n\n[라면꼰대 시즌5]\n📌 더 다채로운 라면의 숨결을 찾아서...\n📌 매주 (화) 오후 6시 공개\n\n00:00 쫄병(?) 박정민과의 겨울 축제 한마당\n01:35 오자마자 친분 과시\n03:33 박정민 vs 키드밀리 막내 싸움\n08:12 적에게 보내는 연하장\n12:14 겨울 축제로구나\n16:27 원박이와의 만남\n20:39 걱정이 많은 편\n24:12 빙어로 지리를 해먹는다면..\n27:33 새로운 K의 등장..!\n32:49 편지가 이렇게 무섭습니다\n35:14 커피좌와 카페좌의 만남\n\n더밥스튜디오 구독하기 👉 @thebobstudioofficial   \n#라면꼰대 #라면꼰대5 #THEBOB #더밥스튜디오",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/default.jpg",
+						"url": "https://i.ytimg.com/vi/i7nQ0EPOwhA/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/i7nQ0EPOwhA/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/i7nQ0EPOwhA/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/i7nQ0EPOwhA/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					},
 					"maxres": {
-						"url": "https://i.ytimg.com/vi/YFbno_aPm0w/maxresdefault.jpg",
+						"url": "https://i.ytimg.com/vi/i7nQ0EPOwhA/maxresdefault.jpg",
 						"width": 1280,
 						"height": 720
 					}
 				},
-				"channelTitle": "ONE PIECE公式YouTubeチャンネル",
-				"categoryId": "1",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
-					"description": "TVアニメ「ONE PIECE」毎週日曜朝9:30よりフジテレビほかにて放送中！\n2024年1月7日より、きただにひろしが歌う「あーーっす！」がオープニングテーマになりました。\n\nタイトル：あーーっす！\n作詞：藤林聖子\n作曲：田中公平\n編曲：中村 博\n\n先行配信：2024年1月8日 AM0:00（予定）\nCDリリース：2024年4月10日（水）\n\n価格：\nCD＋Blu-ray：\\2,200 (税込)\nCD＋DVD： \\2,200 (税込)\nCDのみ：\\1,650(税込)\n\n作詞：藤林聖子、作曲：田中公平による「ウィーアー！」の正統後継作。\n「あーーっす！」含め4曲収録のほか、初のミュージックビデオを収録予定。\n\n#ONEPIECE"
-				},
-				"defaultAudioLanguage": "ja"
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "3iAi291q8Wcg2da_A4DI7Tx3RXk",
-			"id": "i3vX-UQm_po",
-			"snippet": {
-				"publishedAt": "2024-01-07T23:00:51Z",
-				"channelId": "UC1HL3TABt6QGd_P857BH_CA",
-				"title": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION",
-				"description": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION...As the new champion of parkour civilization, how will I figure out how to be the greatest parkour champion of all time?.....\n\nVoice Actors: Evbo\nActors: Evbo, Teddy\n\nJoin My Discord!\nhttps://discord.gg/cbnFGNz\n\nFollow me on Twitch, Twitter, and Tiktok!\nTiktok: @evboshorts\nTwitter: twitter.com/evbolive\nTwitch: https://www.twitch.tv/evbolive​​​​​​​​​\n\nCheck out MCProHosting to host a server!\nhttps://mcph.to/Evbo\nUse promo code \"Evbo\"!\n\nMusic/FX:\n\"Stay The Course, Hit The Streets\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\n#minecraft",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/i3vX-UQm_po/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "Evbo",
-				"categoryId": "20",
-				"liveBroadcastContent": "none",
-				"localized": {
-					"title": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION",
-					"description": "Minecraft but I discover the HISTORY of PARKOUR CIVILIZATION...As the new champion of parkour civilization, how will I figure out how to be the greatest parkour champion of all time?.....\n\nVoice Actors: Evbo\nActors: Evbo, Teddy\n\nJoin My Discord!\nhttps://discord.gg/cbnFGNz\n\nFollow me on Twitch, Twitter, and Tiktok!\nTiktok: @evboshorts\nTwitter: twitter.com/evbolive\nTwitch: https://www.twitch.tv/evbolive​​​​​​​​​\n\nCheck out MCProHosting to host a server!\nhttps://mcph.to/Evbo\nUse promo code \"Evbo\"!\n\nMusic/FX:\n\"Stay The Course, Hit The Streets\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\n#minecraft"
-				}
-			}
-		},
-		{
-			"kind": "youtube#video",
-			"etag": "XwQ4Dobk0jL40-YybOS_SlWfIHs",
-			"id": "CCEuuJLFdJQ",
-			"snippet": {
-				"publishedAt": "2024-01-08T02:08:29Z",
-				"channelId": "UCNsjdLTgAPIlVUldlPzG7rQ",
-				"title": "$1,000 vs $5,000 Facebook Marketplace Jet Jon Boat Challenge! (ft. FishingWithNorm)",
-				"description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/ayofishing or through my promo code AYOFISHING\n\nif you see jet jons for sale that say \"lightly used\", def not your boy...\n\nSubscribe for more videos with the boys!! @AYOFishing \nCheck out my mans - @FishingWithNorm \n\n#JetJon #Facebookmarketplace #JonBoat \n___________________________________________________________________________________________\nADD ME ON SOCIALS😬😬\n\nIG: https://www.instagram.com/ayo_fishing/\nTikTok: https://www.tiktok.com/@ayofishing\nDONT FORGET GRAVY: https://www.instagram.com/davygravyy/\n\n\nBUSINESS INQUIRIES: TeamAYO@unitedtalent.com\n\nFilming Gear:\nMy Main Camera: https://amzn.to/3Ok5BOX\nMy Camera Lens: https://amzn.to/3Es6eSg\nMy Back Up Camera: https://amzn.to/3JMRZbF\nMy Main Camera Microphone: https://amzn.to/3EhPhdb\nMy GoPro: https://amzn.to/3M6NwCf\nMy GoPro Mic: https://amzn.to/3rz3CN1\nMy Chest Mount: https://amzn.to/3xvKHq6\nMy Vlogging Camera Tripod: https://amzn.to/3JPnXUK\nMy Editing Computer: https://amzn.to/3M6NHgT\nMy Sd Card: https://amzn.to/37hpKEV\nMy Drone: https://amzn.to/3MbbiNy\n\n*The above links are Amazon affiliate*\n\n___________________________________________________________________________________________\n\nif you're reading this, watch your back, gravy is watching you, he's always watching...\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (1-800-426-2537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NJ/OH/OR/PA/TN/VA/W/WY),\n(800) 327-5050 or visit gamblinghelplinema.org  (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).\nPlease Gamble Responsibly. Call 1-800-522-4700 (NH), 888-789-7777/visit cpg.org  (CT), or visit www.1800gambler.net (WV).\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NJ/NY/OH/PA/TN/VA/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Bet $5 Get $150: Valid 1 per new customer. Min. $5 deposit. Min. $5 bet. $150 issued in bonus bets. No Sweat: Opt in req. 1 No Sweat token issued per day. SP/SGPx bets only. 3+ legs req. Max. wagering limits apply. Must use funds from cash balance. Must select token BEFORE placing bet. Bet must lose after applying Token. Paid as one Bonus Bet based on amount of losing bet. Tokens expire at start of the last game each day when offered. No Sweat cannot be used to redeem Bet $5 Get $150 offer. Rewarded bonus bets expire 7 days (168 hours) after being awarded. Bonus bets must be wagered 1× and stake is not included in winnings. Ends 01/08/24 at 11:59 PM ET. Sponsored by DK. See terms at dkng.co/bball.",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					},
-					"standard": {
-						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/sddefault.jpg",
-						"width": 640,
-						"height": 480
-					},
-					"maxres": {
-						"url": "https://i.ytimg.com/vi/CCEuuJLFdJQ/maxresdefault.jpg",
-						"width": 1280,
-						"height": 720
-					}
-				},
-				"channelTitle": "AYO Fishing",
+				"channelTitle": "the BOB studio | 더 밥 스튜디오",
 				"tags": [
-					"Jet Jon",
-					"Facebook Marketplace",
-					"Cheap boat",
-					"Expensive boat",
-					"jet boat",
-					"Jon boat",
-					"jetski boat",
-					"jetski motor",
-					"jetski engine",
-					"jet boat foot",
-					"jet foot",
-					"jet",
-					"boat",
-					"cheap v expensive",
-					"Facebook boat"
+					"2024",
+					"78년생",
+					"BDB",
+					"CJ100",
+					"ITSub",
+					"mukbang",
+					"noodle",
+					"ramen",
+					"ramyeon",
+					"갑진년",
+					"개그맨",
+					"경희클럽",
+					"과학",
+					"곽범",
+					"곽튜브",
+					"궤도",
+					"그림형제",
+					"기안",
+					"기안84",
+					"김풍",
+					"김풍 라면",
+					"꼰대",
+					"꼰대희",
+					"놀면뭐하니",
+					"뉴진스",
+					"더밥 스튜디오",
+					"더밥스튜디오",
+					"라꼰",
+					"라꼰4",
+					"라끼남",
+					"라멘",
+					"라면",
+					"라면꼰대",
+					"라면꼰대 시즌3",
+					"라면꼰대 시즌4",
+					"라면꼰대1",
+					"라면꼰대2",
+					"라면꼰대3",
+					"라면꼰대4",
+					"라면꼰대희",
+					"레시피",
+					"말년",
+					"매직박",
+					"먹방",
+					"먹방라면",
+					"면도기",
+					"박정민",
+					"밥묵자",
+					"배도라지",
+					"배성재",
+					"백종원",
+					"브라이언",
+					"블랙핑크",
+					"빠니보틀",
+					"새해",
+					"성시경",
+					"식영이형",
+					"싸가지들",
+					"쌍둥이",
+					"야매요리",
+					"없섭",
+					"여행",
+					"웹툰작가",
+					"유도",
+					"은지어터",
+					"이강인",
+					"이말년",
+					"이은지",
+					"일주어터",
+					"잇섭",
+					"자취요리",
+					"조준현",
+					"조준호",
+					"주펄",
+					"주호민",
+					"쭈펄",
+					"청소광",
+					"최악의 세대",
+					"최자로드",
+					"축구",
+					"침착맨",
+					"침투부",
+					"침투브",
+					"침튜브",
+					"침펄",
+					"침펄 먹방",
+					"침펄먹방",
+					"침펄토론",
+					"침펄풍",
+					"침펄풍 먹방",
+					"침펄풍 월드컵",
+					"키드밀리",
+					"파김치",
+					"파김치갱",
+					"페이커",
+					"밀수",
+					"파수꾼",
+					"다만악에서구하소서"
 				],
-				"categoryId": "22",
+				"categoryId": "24",
 				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
 				"localized": {
-					"title": "$1,000 vs $5,000 Facebook Marketplace Jet Jon Boat Challenge! (ft. FishingWithNorm)",
-					"description": "Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/ayofishing or through my promo code AYOFISHING\n\nif you see jet jons for sale that say \"lightly used\", def not your boy...\n\nSubscribe for more videos with the boys!! @AYOFishing \nCheck out my mans - @FishingWithNorm \n\n#JetJon #Facebookmarketplace #JonBoat \n___________________________________________________________________________________________\nADD ME ON SOCIALS😬😬\n\nIG: https://www.instagram.com/ayo_fishing/\nTikTok: https://www.tiktok.com/@ayofishing\nDONT FORGET GRAVY: https://www.instagram.com/davygravyy/\n\n\nBUSINESS INQUIRIES: TeamAYO@unitedtalent.com\n\nFilming Gear:\nMy Main Camera: https://amzn.to/3Ok5BOX\nMy Camera Lens: https://amzn.to/3Es6eSg\nMy Back Up Camera: https://amzn.to/3JMRZbF\nMy Main Camera Microphone: https://amzn.to/3EhPhdb\nMy GoPro: https://amzn.to/3M6NwCf\nMy GoPro Mic: https://amzn.to/3rz3CN1\nMy Chest Mount: https://amzn.to/3xvKHq6\nMy Vlogging Camera Tripod: https://amzn.to/3JPnXUK\nMy Editing Computer: https://amzn.to/3M6NHgT\nMy Sd Card: https://amzn.to/37hpKEV\nMy Drone: https://amzn.to/3MbbiNy\n\n*The above links are Amazon affiliate*\n\n___________________________________________________________________________________________\n\nif you're reading this, watch your back, gravy is watching you, he's always watching...\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER (1-800-426-2537)\n(AZ/CO/IA/IL/IN/KS/KY/LA/MD/ME/MI/NJ/OH/OR/PA/TN/VA/W/WY),\n(800) 327-5050 or visit gamblinghelplinema.org  (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).\nPlease Gamble Responsibly. Call 1-800-522-4700 (NH), 888-789-7777/visit cpg.org  (CT), or visit www.1800gambler.net (WV).\n21+ (18+ KY/NH/WY). Physically present in AZ/CO/CT/IL/IN/IA/KS/KY/LA(select parishes)/MA/MD/ME/MI/NJ/NY/OH/PA/TN/VA/WV/WY only. Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Bet $5 Get $150: Valid 1 per new customer. Min. $5 deposit. Min. $5 bet. $150 issued in bonus bets. No Sweat: Opt in req. 1 No Sweat token issued per day. SP/SGPx bets only. 3+ legs req. Max. wagering limits apply. Must use funds from cash balance. Must select token BEFORE placing bet. Bet must lose after applying Token. Paid as one Bonus Bet based on amount of losing bet. Tokens expire at start of the last game each day when offered. No Sweat cannot be used to redeem Bet $5 Get $150 offer. Rewarded bonus bets expire 7 days (168 hours) after being awarded. Bonus bets must be wagered 1× and stake is not included in winnings. Ends 01/08/24 at 11:59 PM ET. Sponsored by DK. See terms at dkng.co/bball."
+					"title": "\"정민아 짜증난 거 아니지..?ㅎㅎ\" 쫄병 박정민과의 기기괴괴한 겨울 축제로구나.. [라면꼰대5] EP.10",
+					"description": "“우리는 적을 가끔(?) 좋아할 수 있어!”\n파김치 갱 대장 & 배도라지 쫄병이 공존하는 겨울 축제..\n\n한창 즐기던 정민을 찾아온 깜짝 손님..!\n이 분이 왜 여기에..?🫨\n\n[라면꼰대 시즌5]\n📌 더 다채로운 라면의 숨결을 찾아서...\n📌 매주 (화) 오후 6시 공개\n\n00:00 쫄병(?) 박정민과의 겨울 축제 한마당\n01:35 오자마자 친분 과시\n03:33 박정민 vs 키드밀리 막내 싸움\n08:12 적에게 보내는 연하장\n12:14 겨울 축제로구나\n16:27 원박이와의 만남\n20:39 걱정이 많은 편\n24:12 빙어로 지리를 해먹는다면..\n27:33 새로운 K의 등장..!\n32:49 편지가 이렇게 무섭습니다\n35:14 커피좌와 카페좌의 만남\n\n더밥스튜디오 구독하기 👉 @thebobstudioofficial   \n#라면꼰대 #라면꼰대5 #THEBOB #더밥스튜디오"
 				},
-				"defaultAudioLanguage": "en"
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "f_lfMnt9wCMkTIY_08Wj93Nisr4",
-			"id": "99Hd5Lh69T4",
+			"etag": "vewGckg0sDILz1Vy9lfJdBs9sXs",
+			"id": "jg7pgc1EZEw",
 			"snippet": {
-				"publishedAt": "2024-01-07T14:15:24Z",
-				"channelId": "UCCE5NVlm0FhbunMMBT48WAw",
-				"title": "So I Added ACTUAL HUMAN INTELLIGENCE to Minecraft...",
-				"description": "🕹 Get a browser that’s literally better at everything: https://operagx.gg/Fundy4 Sponsored by Opera GX!\n\nI Added ACTUAL Human Intelligence to Minecraft...\n\nHeya guys! Fundy here, I just want to take a second and say that this video is some of my proudest work. I am so happy with how it turned out, and I am even more happy that it worked... It's still unbelievable that this technical feat is possible, and we're only bringing it further from here. I have such insane plans for this project, and can't wait to share it with you! Make sure you're subscribed, you DON'T want to miss this one!\n\nDid you know subscribing is free? Pretty neat, you should check it out!\n\nBop it guy: @CraftyMasterman \nOlive oil: @DougDoug \n\n#Fundy #Minecraft #AI",
+				"publishedAt": "2024-01-09T09:00:24Z",
+				"channelId": "UCWiS4vemV0wcxuxYPx9Z62g",
+				"title": "충주시 강감찬",
+				"description": "승진 감사합니다\n\n▶ 매주 화 오후 6시 공개\n\n#충주 #페이커 #홍보맨",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/default.jpg",
+						"url": "https://i.ytimg.com/vi/jg7pgc1EZEw/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/jg7pgc1EZEw/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/jg7pgc1EZEw/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/jg7pgc1EZEw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "충주시",
+				"tags": [
+					"충주",
+					"충주시",
+					"공무원",
+					"홍보맨",
+					"김선태",
+					"강감찬",
+					"충주시 강감찬",
+					"충감찬",
+					"거란로드",
+					"페이커",
+					"롤드컵",
+					"승진",
+					"6급공무원"
+				],
+				"categoryId": "29",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "충주시 강감찬",
+					"description": "승진 감사합니다\n\n▶ 매주 화 오후 6시 공개\n\n#충주 #페이커 #홍보맨"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "mfBFIT7CrBdJvq6XuZPadDC5DEk",
+			"id": "OW2mShPGIiY",
+			"snippet": {
+				"publishedAt": "2024-01-08T15:38:21Z",
+				"channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+				"title": "[하이라이트] 역대급 레전드 시구자 '류현진' 등장! 김성근 감독님 이렇게 웃는 거 처음 봐요😅 | 최강야구 | JTBC 240108 방송",
+				"description": "[하이라이트] 역대급 레전드 시구자 '류현진' 등장! 김성근 감독님 이렇게 웃는 거 처음 봐요😅\n#최강야구 #최강몬스터즈 #경기하이라이트 #류현진\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OW2mShPGIiY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OW2mShPGIiY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OW2mShPGIiY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OW2mShPGIiY/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					},
 					"maxres": {
-						"url": "https://i.ytimg.com/vi/99Hd5Lh69T4/maxresdefault.jpg",
+						"url": "https://i.ytimg.com/vi/OW2mShPGIiY/maxresdefault.jpg",
 						"width": 1280,
 						"height": 720
 					}
 				},
-				"channelTitle": "Fundy",
+				"channelTitle": "JTBC Entertainment",
 				"tags": [
-					"fundage",
-					"fundy",
-					"itsfundy",
-					"fundy minecraft",
-					"minecraft fundy",
-					"fundy short",
-					"fundy shorts",
-					"fundy speedrun",
-					"fundy mods",
-					"fundy modding",
-					"minecraft modding",
-					"minecraft mods",
-					"fundy minecraft shorts",
-					"fundy clips",
-					"fundy minecraft mod",
-					"fundy mod download",
-					"best mods",
-					"minecraft best mods",
-					"best mods in minecraft",
-					"minecraft",
-					"mc",
-					"minecraft builds",
-					"minecraft best",
-					"minecraft funny",
-					"openAI",
-					"open AI",
-					"ChatGPT",
-					"Whisper",
-					"Elevenlabs",
-					"ai technology",
-					"technology",
-					"neural network",
-					"game development",
-					"game design"
+					"최강야구",
+					"최강몬스터즈",
+					"박용택",
+					"유희관",
+					"정성훈",
+					"정근우",
+					"송승준",
+					"이택근",
+					"장원삼",
+					"정의윤",
+					"서동욱",
+					"이홍구",
+					"김문호",
+					"이대은",
+					"김선우",
+					"정용검",
+					"오주원",
+					"최수현",
+					"김성근",
+					"이대호",
+					"신재영",
+					"원성준",
+					"선성권",
+					"정현수",
+					"박재욱",
+					"이광길",
+					"황영묵",
+					"유태웅",
+					"문교원",
+					"단국대학교",
+					"최강몬스터즈단국대학교",
+					"최강야구단국대학교",
+					"몬스터즈단국대학교",
+					"최강야구하이라이트",
+					"하이라이트",
+					"야구하이라이트",
+					"최강야구직관"
 				],
-				"categoryId": "20",
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "[하이라이트] 역대급 레전드 시구자 '류현진' 등장! 김성근 감독님 이렇게 웃는 거 처음 봐요😅 | 최강야구 | JTBC 240108 방송",
+					"description": "[하이라이트] 역대급 레전드 시구자 '류현진' 등장! 김성근 감독님 이렇게 웃는 거 처음 봐요😅\n#최강야구 #최강몬스터즈 #경기하이라이트 #류현진\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "zT2Dvxrx6i4aNV4oEJCAI9_v9uA",
+			"id": "QyueTwYHgUM",
+			"snippet": {
+				"publishedAt": "2024-01-08T11:00:31Z",
+				"channelId": "UCvAewWPqooIUgQUsjhTmUVw",
+				"title": "라미란X김숙 다식원 크루에 가입한 배우 공명!?",
+				"description": "#캠핑 #라미란 #공명\n\n초대캠 최초,  전날 12끼 드시고 온 그분!\n영원한 클래스✨ 다식원장 라고수님👍\n\n그리고... 다식원의 뉴페이스 배우 공명!\n1끼 6코스를 먹는 두 먹요정의 활약 기대해줘 ㅋㅋㅋ\n\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QyueTwYHgUM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QyueTwYHgUM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QyueTwYHgUM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/QyueTwYHgUM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/QyueTwYHgUM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "김숙티비kimsookTV",
+				"tags": [
+					"김숙",
+					"kimsook",
+					"갓숙",
+					"비보티비",
+					"비밀보장",
+					"金淑",
+					"comedian",
+					"숙티비",
+					"김숙유튜브",
+					"캠핑",
+					"라미란",
+					"공명",
+					"시민덕희",
+					"다식원",
+					"라미란 먹방",
+					"라미란 다식원",
+					"초대 요리",
+					"도영",
+					"공명 도영",
+					"공명 극한직업",
+					"공명 전참시",
+					"공명 바퀴달린 집",
+					"공명 영화",
+					"라미란 영화",
+					"공명 연기",
+					"라미란 연기",
+					"삼겹살",
+					"고기",
+					"고기 먹방",
+					"먹방",
+					"삼겹살 먹방",
+					"연어",
+					"아롱사태",
+					"수육",
+					"샤브샤브",
+					"성시경",
+					"성시경 막걸리",
+					"그라비락스",
+					"연어 요리",
+					"간식",
+					"캠핑 요리",
+					"캠핑 먹방"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "라미란X김숙 다식원 크루에 가입한 배우 공명!?",
+					"description": "#캠핑 #라미란 #공명\n\n초대캠 최초,  전날 12끼 드시고 온 그분!\n영원한 클래스✨ 다식원장 라고수님👍\n\n그리고... 다식원의 뉴페이스 배우 공명!\n1끼 6코스를 먹는 두 먹요정의 활약 기대해줘 ㅋㅋㅋ\n\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다."
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "Unj-rJuW-zxa8AUh8mZgeWkeWTg",
+			"id": "gxMBF1Xw_3c",
+			"snippet": {
+				"publishedAt": "2024-01-09T09:30:16Z",
+				"channelId": "UCxQXvvaqwA2NzPXs5775ogw",
+				"title": "[EN] 역대급 찌든 때 부엌 청소 (NCT 127 태용, 쟈니) | 청소광브라이언 11화",
+				"description": "미국 청소 아저씨의 새해 첫 청소는 NCT 127 숙소?!?\n찌든 때로 뒤덮인 주방 구제 프로젝트🧽\n브라 자리 위협하는 리틀 청소광 태용🌹과 \n청소광에게 대항(?)하는 팩폭 쟈니🐱와의 환상 청소 하모니 🔥🎶\n\n[🧹청소광브라이언🧹]\n청소에 미친자의 신개념 청소 예능\n매주 화요일 저녁 6시 30분\n\n00:00 하이라이트\n02:31 브라이언과 태용&쟈니의 만남\n04:00 이 충격적인 집의 정체는?\n06:00 먼지 논쟁\n07:27 what's in 태용's bag\n11:20 본격 버리기 시작 \n14:18 찌든 때 청소\n17:48 후드 청소 \n21:28 청소 완료\n25:12: 다음화 가비 편 예고 \n\n📢청소광 X 스킨유 올리브영 이벤트📢\n1월 한 달 간 올리브영 한정 기획세트 🎁\n[스킨유 퍼품 샤워젤🧴]을 구매할 경우 [뮬라웨어 논슬립 삭스🧦] 증정! \n \n샤워젤로 향기 유지하고 [스킨유 퍼퓸 스크럽] 으로 각질 케어까지 하세요 😎\n\n*스킨유 샤워젤\nhttps://abit.ly/brian\n\n*스킨유 스크럽\nhttps://abit.ly/brian2\n\n#청소광브라이언 #NCT127 #브라이언 #청소",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/gxMBF1Xw_3c/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/gxMBF1Xw_3c/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/gxMBF1Xw_3c/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/gxMBF1Xw_3c/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/gxMBF1Xw_3c/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "M드로메다 스튜디오",
+				"tags": [
+					"브라이언",
+					"청소",
+					"붐",
+					"브라이언 청소",
+					"결벽증",
+					"서장훈",
+					"노홍철",
+					"김희철",
+					"청소광",
+					"환희",
+					"플라이투더스카이",
+					"플투",
+					"신랑수업",
+					"전참시",
+					"라디오스타",
+					"서장훈 브라이언",
+					"강박증",
+					"청소광브라",
+					"청소광브라이언",
+					"엠드로",
+					"엠드로메다",
+					"청소광 브라",
+					"청소광 브라이언",
+					"브라이언 청소광",
+					"브라이언 결벽증",
+					"브라이언 향초",
+					"브라이언 청소기",
+					"주브",
+					"주브생활",
+					"미국아저씨",
+					"청소아저씨",
+					"엠드로청소광",
+					"엠드로브라이언",
+					"붐브라이언",
+					"크리스마스",
+					"싸가지들",
+					"집꾸미기",
+					"인테리어",
+					"브라이언집",
+					"브라이언인테리어",
+					"브라이언엠드로",
+					"청소광엠드로",
+					"태용",
+					"쟈니",
+					"NCT127",
+					"피식대학",
+					"피식쇼",
+					"브라이언태용",
+					"브라이언쟈니",
+					"태용쟈니",
+					"NCT",
+					"NCTU",
+					"nct",
+					"nct127",
+					"SM",
+					"에스엠"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "[EN] 역대급 찌든 때 부엌 청소 (NCT 127 태용, 쟈니) | 청소광브라이언 11화",
+					"description": "미국 청소 아저씨의 새해 첫 청소는 NCT 127 숙소?!?\n찌든 때로 뒤덮인 주방 구제 프로젝트🧽\n브라 자리 위협하는 리틀 청소광 태용🌹과 \n청소광에게 대항(?)하는 팩폭 쟈니🐱와의 환상 청소 하모니 🔥🎶\n\n[🧹청소광브라이언🧹]\n청소에 미친자의 신개념 청소 예능\n매주 화요일 저녁 6시 30분\n\n00:00 하이라이트\n02:31 브라이언과 태용&쟈니의 만남\n04:00 이 충격적인 집의 정체는?\n06:00 먼지 논쟁\n07:27 what's in 태용's bag\n11:20 본격 버리기 시작 \n14:18 찌든 때 청소\n17:48 후드 청소 \n21:28 청소 완료\n25:12: 다음화 가비 편 예고 \n\n📢청소광 X 스킨유 올리브영 이벤트📢\n1월 한 달 간 올리브영 한정 기획세트 🎁\n[스킨유 퍼품 샤워젤🧴]을 구매할 경우 [뮬라웨어 논슬립 삭스🧦] 증정! \n \n샤워젤로 향기 유지하고 [스킨유 퍼퓸 스크럽] 으로 각질 케어까지 하세요 😎\n\n*스킨유 샤워젤\nhttps://abit.ly/brian\n\n*스킨유 스크럽\nhttps://abit.ly/brian2\n\n#청소광브라이언 #NCT127 #브라이언 #청소"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "ubqDnAlxnuZkRyvY4A307SVFbY8",
+			"id": "5e3rKInegeU",
+			"snippet": {
+				"publishedAt": "2024-01-08T08:58:08Z",
+				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+				"title": "ITZY \"UNTOUCHABLE\" M/V @ITZY",
+				"description": "ITZY \"UNTOUCHABLE\" M/V\n\nITZY “BORN TO BE” - UNTOUCHABLE\n🔥 Melon https://kko.to/H1Pbs5MKtK\n🔥 M/V https://youtu.be/5e3rKInegeU\n🔥 ALBUM https://ITZY.lnk.to/BORNTOBE\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_BORNTOBE #ITZY_UNTOUCHABLE\n\nCopyrights 2024 ⓒ JYP Entertainment. All Rights Reserved",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5e3rKInegeU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5e3rKInegeU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5e3rKInegeU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5e3rKInegeU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5e3rKInegeU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "JYP Entertainment",
+				"tags": [
+					"JYP Entertainment",
+					"JYP",
+					"ITZY",
+					"있지",
+					"イッチ",
+					"예지",
+					"리아",
+					"류진",
+					"채령",
+					"유나",
+					"YEJI",
+					"LIA",
+					"RYUJIN",
+					"CHAERYEONG",
+					"YUNA",
+					"イェジ",
+					"リア",
+					"リュジン",
+					"チェリョン",
+					"ユナ",
+					"อิทจี",
+					"เยจี",
+					"ลีอา",
+					"รยูจิน",
+					"แชรยอง",
+					"ยูนา",
+					"ITZY BEHIND",
+					"MV",
+					"ITZY MV",
+					"ITZY MUSIC VIDEOS",
+					"Teaser",
+					"ITZY Teaser",
+					"IT'z Different",
+					"IT'z ICY",
+					"IT'z ME",
+					"Not Shy",
+					"GUESS WHO",
+					"CRAZY IN LOVE",
+					"DALLA DALLA",
+					"ICY",
+					"WANNABE",
+					"마.피.아.IN THE MORNING",
+					"LOCO",
+					"ITZY?ITZY!",
+					"ITZY CHECKMATE",
+					"CHECKMATE",
+					"ITZY COMEBACK",
+					"SNEAKERS",
+					"Boys Like You",
+					"CHESHIRE",
+					"KILL MY DOUBT",
+					"CAKE",
+					"BORN TO BE",
+					"UNTOUCHABLE"
+				],
+				"categoryId": "10",
 				"liveBroadcastContent": "none",
 				"defaultLanguage": "en",
 				"localized": {
-					"title": "So I Added ACTUAL HUMAN INTELLIGENCE to Minecraft...",
-					"description": "🕹 Get a browser that’s literally better at everything: https://operagx.gg/Fundy4 Sponsored by Opera GX!\n\nI Added ACTUAL Human Intelligence to Minecraft...\n\nHeya guys! Fundy here, I just want to take a second and say that this video is some of my proudest work. I am so happy with how it turned out, and I am even more happy that it worked... It's still unbelievable that this technical feat is possible, and we're only bringing it further from here. I have such insane plans for this project, and can't wait to share it with you! Make sure you're subscribed, you DON'T want to miss this one!\n\nDid you know subscribing is free? Pretty neat, you should check it out!\n\nBop it guy: @CraftyMasterman \nOlive oil: @DougDoug \n\n#Fundy #Minecraft #AI"
+					"title": "ITZY \"UNTOUCHABLE\" M/V @ITZY",
+					"description": "ITZY \"UNTOUCHABLE\" M/V\n\nITZY “BORN TO BE” - UNTOUCHABLE\n🔥 Melon https://kko.to/H1Pbs5MKtK\n🔥 M/V https://youtu.be/5e3rKInegeU\n🔥 ALBUM https://ITZY.lnk.to/BORNTOBE\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_BORNTOBE #ITZY_UNTOUCHABLE\n\nCopyrights 2024 ⓒ JYP Entertainment. All Rights Reserved"
 				},
-				"defaultAudioLanguage": "en"
+				"defaultAudioLanguage": "ko"
 			}
 		},
 		{
 			"kind": "youtube#video",
-			"etag": "QnukZ1ORVvrwzaElPApn5koKUd0",
-			"id": "nbgtBGLg4G0",
+			"etag": "_50sY8NNeWc4MAuI_0-csluLNjo",
+			"id": "yJjAJcAgem0",
 			"snippet": {
-				"publishedAt": "2024-01-07T13:59:45Z",
-				"channelId": "UC4zS1wbO81p59CxKL7CQAcA",
-				"title": "Let's Make Dad Proud",
-				"description": "Noah Barczyk, the son of Brian Barczyk, shares an uplifting update about his father and his plans to advance and honor his dad's legacy in the future. \n#brianbarczyk #makedadproud #reptilearmy \n\nFollow Noah here: https://www.youtube.com/@UCzNBH8Ztsf5x7zHCdxJSE4A \n\nWe've received numerous requests from our compassionate followers seeking ways to support Brian and his loved ones. We're humbled by your generosity and have compiled a list of ways you can help:\n\n“Leave Your Legacy At LegaSea” Initiative: Become a part of Brian's vision by purchasing LegaSea Wall Plaques from The Reptarium: https://thereptarium.com/products/leg...\n\nReptarium Support Options: Explore various ways to support through Merchandise, Donations, and \nAnimal Ambassador Sponsorships at The Reptarium: https://thereptarium.com/collections/merch-gift-cards-sponsorships\n\nReptile Army Merchandise: Show your support by shopping at Reptile Army: https://reptilearmy.com/\n\nMore Ways to Support: Consider supporting through BHB Reptiles: https://www.bhbreptiles.com/ and Reptile Prime: https://reptileprime.com/\n\nYour support in any form is invaluable to us during this period. With heartfelt gratitude,\n\nThe crew.\n\nFollow Noah: https://www.instagram.com/barczyknoah/\nSubscribe To Brian's Linktree: https://linktr.ee/brianbarczyk\nBecome A YouTube Member & Get Your Custom Badge: https://www.youtube.com/channel/UC4zS1wbO81p59CxKL7CQAcA/join\n\nAbout Brian Barczyk:\nHi! I'm Brian Barczyk, and I have been daily vlogging on YouTube since May 10, 2016 sharing my amazing life filled with animals. My journey here on YouTube and social media has been truly magnificent and magical. Since 2016, I've been part of TV network series, produced my own documentary in South Africa, traveled the world to meet incredible animals and animal lovers, started a podcast, created a convention for animal content creators, built and expanded The Reptarium - an interactive reptile Zoo in Utica, Michigan and so much more. \n\nIn March 2023, just as we were ready to break ground on our expanded facility, I received a life-altering diagnosis of inoperable Pancreatic Cancer. Despite the challenges and my fears, the amazing community we've built on YouTube over the last 7+ years has kept me inspired to continue sharing my journey.\n\nNow, I'm fully committed to building our expanded facility, Legasea Aquarium & The Reptarium, just across the street. This project represents resilience and the pursuit of dreams in difficult times. With the incredible support of our community, the #ReptileArmy, we're turning obstacles into opportunities. Together, let's create a brighter future for reptiles and all animals, inspiring others to embrace their passions in the face of adversity.\n\nJoin us on this inspiring journey of discovery, conservation, and hope. Together, we'll make a lasting impact and celebrate the extraordinary animal world.",
+				"publishedAt": "2024-01-09T09:00:26Z",
+				"channelId": "UC4UnP3v-iaFaLdtKwp84Pmw",
+				"title": "불후의 명곡 in US 비하인드 1편 | 🍽미국 먹방 탐방😋",
+				"description": "불후의 명곡으로 또 다시 미국으로 떠난 찬원!🤩\n\n짧았던 지난 미국 방문이 아쉬웠던 만큼\n알차게 즐기고 왔을지!\n궁금하신 분들은 모두 비하인드에서 확인해주세요😁💕\n\n#이찬원 #LeeChanWon #비하인드",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/default.jpg",
+						"url": "https://i.ytimg.com/vi/yJjAJcAgem0/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/yJjAJcAgem0/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/yJjAJcAgem0/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					},
 					"standard": {
-						"url": "https://i.ytimg.com/vi/nbgtBGLg4G0/sddefault.jpg",
+						"url": "https://i.ytimg.com/vi/yJjAJcAgem0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/yJjAJcAgem0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "이찬원",
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "불후의 명곡 in US 비하인드 1편 | 🍽미국 먹방 탐방😋",
+					"description": "불후의 명곡으로 또 다시 미국으로 떠난 찬원!🤩\n\n짧았던 지난 미국 방문이 아쉬웠던 만큼\n알차게 즐기고 왔을지!\n궁금하신 분들은 모두 비하인드에서 확인해주세요😁💕\n\n#이찬원 #LeeChanWon #비하인드"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "22ay0RBbHyO_OaYo3TVvyydqwvU",
+			"id": "UnXW2cuSiCk",
+			"snippet": {
+				"publishedAt": "2024-01-09T11:00:10Z",
+				"channelId": "UCB9e3pof1o83aa0kkaoeJGA",
+				"title": "[4K] the Fillin' Live ep 09. RIIZE(라이즈) 2024년은 라이즈와 함께 해피 브리즈 이어🧡 [it’s KPOP LIVE 잇츠라이브]",
+				"description": "🧡잇츠라이브 X RIIZE🧡\nBRIIZE과 함께한 스페셜 콘서트 무대!!\nRIIZE의 the Fillin' Live를 지금 바로 만나보세요✨\n라이즈 - the Fillin' Live\n\n#itsLive #RIIZE #GetAGuitar #TalkSaxy #Love119 #Memories #라이즈 #밴드 #KPOP #잇츠라이브",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UnXW2cuSiCk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UnXW2cuSiCk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UnXW2cuSiCk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UnXW2cuSiCk/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UnXW2cuSiCk/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "it's Live",
+				"tags": [
+					"RIIZE",
+					"라이즈",
+					"Get A Guitar",
+					"Talk Saxy",
+					"Love 119",
+					"Memories",
+					"쇼타로",
+					"은석",
+					"성찬",
+					"원빈",
+					"소희",
+					"앤톤",
+					"브리즈",
+					"BRIIZE",
+					"SM",
+					"에셈",
+					"슴",
+					"신인",
+					"에스파",
+					"aespa",
+					"엔시티",
+					"NCT",
+					"KPOP",
+					"MDR",
+					"잇츠라이브",
+					"itsLive",
+					"the Fillin' Live",
+					"더필린라이브",
+					"더필라",
+					"Band",
+					"Band LIVE",
+					"밴드",
+					"밴드 라이브",
+					"콘서트",
+					"온라인 콘서트",
+					"온콘",
+					"공연",
+					"축제"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "[4K] the Fillin' Live ep 09. RIIZE(라이즈) 2024년은 라이즈와 함께 해피 브리즈 이어🧡 [it’s KPOP LIVE 잇츠라이브]",
+					"description": "🧡잇츠라이브 X RIIZE🧡\nBRIIZE과 함께한 스페셜 콘서트 무대!!\nRIIZE의 the Fillin' Live를 지금 바로 만나보세요✨\n라이즈 - the Fillin' Live\n\n#itsLive #RIIZE #GetAGuitar #TalkSaxy #Love119 #Memories #라이즈 #밴드 #KPOP #잇츠라이브"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "p0M6fQ72PoVj6qt-6i9qDVky_Zc",
+			"id": "fNjBthuv_3o",
+			"snippet": {
+				"publishedAt": "2024-01-08T09:06:43Z",
+				"channelId": "UC7cF2ZYvGm_zgrX-xCV88mA",
+				"title": "있었는데 없다...‘투명TV’로 기선제압 [CES 2024]/한국경제TV뉴스",
+				"description": "세계 최대의 가전 전시회, CES 2024 개막을 앞두고. 삼성과 LG가 투명한 디스플레이를 깜짝 공개했습니다. 올해 대거 CES 복귀를 예고한 중국업체들을 상대로, 앞선 기술력을 선보였습니다. 산업1부 정원우 기자입니다. \n\n#LG전자 #삼성전자 #CES2024\n \n[기사원문보기]\nhttps://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202401080200&t=NNv\n\n△대한민국의 경제를 보세요!\n△구독과 좋아요 그리고 알람설정하세요!\n\n#한국경제TV뉴스 #뉴스플러스 #경제 #투자 #한경 \n△'한국경제TV 뉴스' 유튜브 구독\nhttps://bit.ly/3nlLPEu",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fNjBthuv_3o/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fNjBthuv_3o/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fNjBthuv_3o/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fNjBthuv_3o/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fNjBthuv_3o/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "한국경제TV뉴스",
+				"tags": [
+					"한국경제TV 뉴스",
+					"증권",
+					"경제",
+					"한국경제TV",
+					"뉴스플러스",
+					"뉴스+",
+					"김민수",
+					"삼성",
+					"삼성전자",
+					"삼전",
+					"삼전 투명기술",
+					"삼전 마이크로LED",
+					"마이크로LED",
+					"마이크로LED TV",
+					"마이크로LED 삼성전자",
+					"마이크로LED 관련주 추천",
+					"삼성전자 전망",
+					"삼성전자 투자전망",
+					"삼전투자",
+					"삼전 주식투자",
+					"LG전자",
+					"LG전자 신제품",
+					"LG전자 TV",
+					"LG전자 무선투명TV",
+					"LG전자 OLED",
+					"LG전자 OLED TV",
+					"LG전자 전망",
+					"LG전자 투자",
+					"LG전자 투자전망",
+					"LG전자 주식",
+					"LG전자 주식전망",
+					"삼성디스플레이",
+					"삼성디스플레이 실적",
+					"LG디스플레이",
+					"LG디스플레이 실적",
+					"CES",
+					"CES행사 CES 관련주",
+					"CES 관련주 전망",
+					"CES 관련주 투자",
+					"CES 삼성",
+					"CES 삼성전자",
+					"CES 2024",
+					"CES 2024 삼성",
+					"CES 약자",
+					"CES2024 일정",
+					"CES 2024 참가기업",
+					"CES 2024 LG",
+					"CES 2024 관련주"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "있었는데 없다...‘투명TV’로 기선제압 [CES 2024]/한국경제TV뉴스",
+					"description": "세계 최대의 가전 전시회, CES 2024 개막을 앞두고. 삼성과 LG가 투명한 디스플레이를 깜짝 공개했습니다. 올해 대거 CES 복귀를 예고한 중국업체들을 상대로, 앞선 기술력을 선보였습니다. 산업1부 정원우 기자입니다. \n\n#LG전자 #삼성전자 #CES2024\n \n[기사원문보기]\nhttps://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202401080200&t=NNv\n\n△대한민국의 경제를 보세요!\n△구독과 좋아요 그리고 알람설정하세요!\n\n#한국경제TV뉴스 #뉴스플러스 #경제 #투자 #한경 \n△'한국경제TV 뉴스' 유튜브 구독\nhttps://bit.ly/3nlLPEu"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "xno54Xt4f63nyCYN04OhNzz6fic",
+			"id": "T4VkTvUEb0U",
+			"snippet": {
+				"publishedAt": "2024-01-08T13:18:55Z",
+				"channelId": "UC9w-h_ciMmX64TcLRcb1xPg",
+				"title": "3화 하이라이트｜나인우 X 최규리, 물심양면 박민영 도와주는 특별한 구원투수💕 #내남편과결혼해줘 EP.3",
+				"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#tvN #내남편과결혼해줘 #MarryMyHusband #내남결\n\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n[월화] 저녁 8:50 방송\n\n#박민영 #나인우 #이이경 #송하윤 #이기광\n\n#티빙에서스트리밍",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/T4VkTvUEb0U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/T4VkTvUEb0U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/T4VkTvUEb0U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/T4VkTvUEb0U/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/T4VkTvUEb0U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "tvN drama",
+				"tags": [
+					"marrymyhusband",
+					"tvN",
+					"나인우",
+					"내 남편과 결혼해줘",
+					"내남결",
+					"내남편과결혼해줘",
+					"박민영",
+					"송하윤",
+					"이기광",
+					"이이경",
+					"티빙에서스트리밍",
+					"请和我的老公结婚"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "3화 하이라이트｜나인우 X 최규리, 물심양면 박민영 도와주는 특별한 구원투수💕 #내남편과결혼해줘 EP.3",
+					"description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#tvN #내남편과결혼해줘 #MarryMyHusband #내남결\n\n절친과 남편의 불륜을 목격한 날, 난 살해당했다. 그런데 눈 떠보니 10년 전?!\n인생 2회차, 시궁창 같은 운명을 그들에게 돌려주는 '본격 운명 개척 드라마'\n\ntvN 월화드라마 〈내 남편과 결혼해줘〉\n[월화] 저녁 8:50 방송\n\n#박민영 #나인우 #이이경 #송하윤 #이기광\n\n#티빙에서스트리밍"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "YgATY-uQyDSuA-i5eRQL0mhIbU8",
+			"id": "0npT8GmirsQ",
+			"snippet": {
+				"publishedAt": "2024-01-06T14:12:32Z",
+				"channelId": "UCesY-UN9tgibpFJ-lw3y_1A",
+				"title": "[제38회 골든디스크] BSS (부석순) - '파이팅 해야지 (with. 디노)' ♪｜JTBC 240106 방송",
+				"description": "■ 제38회 골든디스크어워즈 with mandiri\nBSS (부석순) - '파이팅 해야지 (with. 디노)' ♪\n#제38회골든디스크어워즈 #부석순 #파이팅해야지",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0npT8GmirsQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0npT8GmirsQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0npT8GmirsQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/0npT8GmirsQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/0npT8GmirsQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "KPOP JAMM",
+				"tags": [
+					"골든디스크어워즈",
+					"골든디스크시상식",
+					"골든디스크",
+					"골디",
+					"음악",
+					"음반",
+					"노래",
+					"공연",
+					"시상식",
+					"대중가요",
+					"음원",
+					"아이돌",
+					"제38회골든디스크어워즈",
+					"제38회골든디스크어워즈만디리",
+					"디지털음원부문",
+					"음반부문",
+					"BSS",
+					"부석순",
+					"승관",
+					"호시",
+					"도겸",
+					"디노",
+					"파이팅해야지"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "[제38회 골든디스크] BSS (부석순) - '파이팅 해야지 (with. 디노)' ♪｜JTBC 240106 방송",
+					"description": "■ 제38회 골든디스크어워즈 with mandiri\nBSS (부석순) - '파이팅 해야지 (with. 디노)' ♪\n#제38회골든디스크어워즈 #부석순 #파이팅해야지"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "yKEH0qrphJQ4ExBKAK2Wh8RMzRk",
+			"id": "5sZ5a_mJIMI",
+			"snippet": {
+				"publishedAt": "2024-01-09T11:00:10Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "실물 보니까 이건 그냥 미쳤다;; 테슬라 사이버트럭 외관만 둘러봤습니다.",
+				"description": "미국 CES 2024를 보러간 김에 테슬라에서 얼마전 공개한 사이버트럭이 궁금해 테슬라 스토어를 찾아갔습니다. 비록 외관만 촬영을 허가받았긴 하지만 실물로 본 모습. 어마어마한 크기의 사이버트럭을 둘러본 소감을 이야기해봤습니다!\n\n\n🔋 Specs.\n차량명 : Tesla Cybertruck \n엔진형식 : 전기모터\n외판소재 : 스테인리스 스틸 (문 두께 1.8mm / 이외 1.4mm)\n주행거리 : 402km(RWD) / 547km(AWD) / 515km(Cyberbeast)\n배터리 : 123kWh \n무게 : 약 3,104kg (Cyberbeast) \n가격 : $60,990~ \n\n\n🎵 BGM.\nES_Jacuzzi - Jobii\n\n\n⏲️ Timestamps.\n00:00 찡긋\n00:08 오프닝\n01:12 외판\n04:02 디자인\n07:55 모터&배터리\n10:14 48V 전장시스템\n12:15 가격\n13:13 마무리\n\n\n🔖Tags.\n#테슬라\n#사이버트럭\n#실물\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\nitsub@itud.io",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5sZ5a_mJIMI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5sZ5a_mJIMI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5sZ5a_mJIMI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5sZ5a_mJIMI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5sZ5a_mJIMI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"categoryId": "28",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "실물 보니까 이건 그냥 미쳤다;; 테슬라 사이버트럭 외관만 둘러봤습니다.",
+					"description": "미국 CES 2024를 보러간 김에 테슬라에서 얼마전 공개한 사이버트럭이 궁금해 테슬라 스토어를 찾아갔습니다. 비록 외관만 촬영을 허가받았긴 하지만 실물로 본 모습. 어마어마한 크기의 사이버트럭을 둘러본 소감을 이야기해봤습니다!\n\n\n🔋 Specs.\n차량명 : Tesla Cybertruck \n엔진형식 : 전기모터\n외판소재 : 스테인리스 스틸 (문 두께 1.8mm / 이외 1.4mm)\n주행거리 : 402km(RWD) / 547km(AWD) / 515km(Cyberbeast)\n배터리 : 123kWh \n무게 : 약 3,104kg (Cyberbeast) \n가격 : $60,990~ \n\n\n🎵 BGM.\nES_Jacuzzi - Jobii\n\n\n⏲️ Timestamps.\n00:00 찡긋\n00:08 오프닝\n01:12 외판\n04:02 디자인\n07:55 모터&배터리\n10:14 48V 전장시스템\n12:15 가격\n13:13 마무리\n\n\n🔖Tags.\n#테슬라\n#사이버트럭\n#실물\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\nitsub@itud.io"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "7S2K3xbzpKCzJj7VpuOeqUz5Iro",
+			"id": "a70k2EwkPQA",
+			"snippet": {
+				"publishedAt": "2024-01-09T09:00:00Z",
+				"channelId": "UCe8HrlhMkYlQ_61EjrrQlHw",
+				"title": "'72세 노장의 첫 출전?!' 장렬히 전사한 양규 뒤 고려의 유일한 희망이 된 강감찬ㅣ평화전쟁1019｜JTBC 191124 방송",
+				"description": "화살비 속 전사한 양규 장군과\n개경으로 돌아온 현종\n현종이 꺼내든 고려의 마지막 카드는?!\n\n\n#평화전쟁1019 #고려거란전쟁 #강감찬\n\n――――――――――――――――― \n\n[차클 플러스] 채널 구독하기\n☞  https://me2.kr/cXhkQ",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/a70k2EwkPQA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/a70k2EwkPQA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/a70k2EwkPQA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/a70k2EwkPQA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/a70k2EwkPQA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "차클 플러스",
+				"tags": [
+					"차클플러스",
+					"JTBC다큐",
+					"평화전쟁",
+					"평화전쟁1019",
+					"전쟁다큐",
+					"다큐멘터리",
+					"임용한",
+					"전쟁사",
+					"양규",
+					"현종",
+					"성종",
+					"목종",
+					"천추태후",
+					"강조",
+					"강조의난",
+					"강조정변",
+					"고려침공",
+					"거란",
+					"거란족",
+					"요나라",
+					"강감찬",
+					"곽주",
+					"안주",
+					"흥화진",
+					"강동6주",
+					"항복",
+					"하공진",
+					"영웅",
+					"고려거란전쟁",
+					"최수종",
+					"김동준",
+					"대하드라마",
+					"대하사극",
+					"사극",
+					"서희",
+					"협공",
+					"원효",
+					"기병",
+					"부대",
+					"여요전쟁",
+					"곽주성",
+					"야율융서",
+					"몽진",
+					"귀주대첩"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "'72세 노장의 첫 출전?!' 장렬히 전사한 양규 뒤 고려의 유일한 희망이 된 강감찬ㅣ평화전쟁1019｜JTBC 191124 방송",
+					"description": "화살비 속 전사한 양규 장군과\n개경으로 돌아온 현종\n현종이 꺼내든 고려의 마지막 카드는?!\n\n\n#평화전쟁1019 #고려거란전쟁 #강감찬\n\n――――――――――――――――― \n\n[차클 플러스] 채널 구독하기\n☞  https://me2.kr/cXhkQ"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "9SDS9dH1V520cY0TwQG_CercFBk",
+			"id": "4sOX5bR4LYs",
+			"snippet": {
+				"publishedAt": "2024-01-06T18:27:16Z",
+				"channelId": "UCesY-UN9tgibpFJ-lw3y_1A",
+				"title": "[제38회 골든디스크] SEVENTEEN - '손오공 + Ima -Even if the world ends tommorrow- + 음악의 신' ♪｜JTBC 240106 방송",
+				"description": "■ 제38회 골든디스크어워즈 with mandiri\nSEVENTEEN - '손오공 + Ima -Even if the world ends tommorrow- + 음악의 신' ♪\n#제38회골든디스크어워즈 #SEVENTEEN #손오공 #음악의신 #Ima_Even_if_the_world_ends_tommorrow",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4sOX5bR4LYs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4sOX5bR4LYs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4sOX5bR4LYs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4sOX5bR4LYs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4sOX5bR4LYs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "KPOP JAMM",
+				"tags": [
+					"골든디스크어워즈",
+					"골든디스크시상식",
+					"골든디스크",
+					"골디",
+					"음악",
+					"음반",
+					"노래",
+					"공연",
+					"시상식",
+					"대중가요",
+					"음원",
+					"아이돌",
+					"제38회골든디스크어워즈",
+					"제38회골든디스크어워즈만디리",
+					"디지털음원부문",
+					"음반부문",
+					"SEVENTEEN",
+					"세븐틴",
+					"에스쿱스",
+					"정한",
+					"조슈아",
+					"준",
+					"호시",
+					"원우",
+					"우지",
+					"디에잇",
+					"민규",
+					"도겸",
+					"승관",
+					"버논",
+					"디노",
+					"손오공",
+					"Ima_Even_if_the_world_ends_tommorrow",
+					"음악의신"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "[제38회 골든디스크] SEVENTEEN - '손오공 + Ima -Even if the world ends tommorrow- + 음악의 신' ♪｜JTBC 240106 방송",
+					"description": "■ 제38회 골든디스크어워즈 with mandiri\nSEVENTEEN - '손오공 + Ima -Even if the world ends tommorrow- + 음악의 신' ♪\n#제38회골든디스크어워즈 #SEVENTEEN #손오공 #음악의신 #Ima_Even_if_the_world_ends_tommorrow"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "q1WEq9SyiVsEQqvaO6IQRvbHQh0",
+			"id": "PItvX19oB7w",
+			"snippet": {
+				"publishedAt": "2024-01-07T01:00:11Z",
+				"channelId": "UC1rVspUVgsWRqvSPGe7mSRQ",
+				"title": "[FULL영상] 핸드폰 해킹으로 수백만 원 손해보고 이혼까지 하게 된 노유정의 근황은 MBN 200131 방송",
+				"description": "특종세상 411회\n2020년 1월 31일 방송\n\n방송가에서 사라진 노유정의 근황\n\n구독, 좋아요, 알람 \n설정 시 '특종세상'  을 더 빨리 만날 수 있습니다\n\n \n#특종세상#방송#해킹#손해#피해#이혼\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/PItvX19oB7w/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/PItvX19oB7w/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/PItvX19oB7w/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/PItvX19oB7w/sddefault.jpg",
 						"width": 640,
 						"height": 480
 					}
 				},
-				"channelTitle": "Brian Barczyk",
+				"channelTitle": "특종세상 - 그때 그 사람",
+				"tags": ["노유정", "특종세상", "방송", "해킹", "손해", "피해", "이혼"],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "[FULL영상] 핸드폰 해킹으로 수백만 원 손해보고 이혼까지 하게 된 노유정의 근황은 MBN 200131 방송",
+					"description": "특종세상 411회\n2020년 1월 31일 방송\n\n방송가에서 사라진 노유정의 근황\n\n구독, 좋아요, 알람 \n설정 시 '특종세상'  을 더 빨리 만날 수 있습니다\n\n \n#특종세상#방송#해킹#손해#피해#이혼\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "JpVRi2NFc_51WzLlfKxfHLsM0IM",
+			"id": "KDaaV-0DeSo",
+			"snippet": {
+				"publishedAt": "2024-01-08T08:08:12Z",
+				"channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+				"title": "[내꺼내먹_EP.1] 4트 만에... 피자 주문 성공했습니다. 사장님, 좀 나와 봐요",
+				"description": "#백종원 #내꺼내먹 #빽보이\n\n두구두구~~ 2024년 새해를 여는 첫 내꺼내먹! \n대망의 주인공은 \"빽보이피자\"입니다\n남녀노소 누구나 좋아하는 메뉴, 피자 아닐까요~~\n근데.. 언제 피자집을 차렸느냐고요?!\n어떻게 빽보이피자를 시작하게 됐는지 이야기 드릴게요!\n\n피자 토핑으로 뭘 올리면 좋을까.. 직원들이랑 연구 많이 했거든요\n그 중, 제 최애 피자는 뭘까 궁금하시죠?\n저와 같은 고기러버를 위한~~\n제~~대로 피자 맛있게 먹는 법도 알려드려요!\n\n※ 빽보이피자 할인 이벤트 ※ \n- 기간 : 2024년 1월 8일(월) ~ 1월 14일(일) \n- 내용 : 배달앱 '배달의 민족'에서 주문시, 4,000원 할인 쿠폰 제공\n- 빽보이피자X배민 프로모션 링크 \n(모바일에서만 링크 확인 가능합니다)\nhttps://baeminkr.onelink.me/XgL8/s01tvgd1\n\n*배달의 민족 앱 내 이벤트 페이지에서 4,000원 할인 쿠폰을 다운받을 수 있습니다\n*배달·포장·배민1 모두 할인 적용 가능합니다\n\n_\n00:00 인트로\n01:06 빽보이는 어떻게 태어났나요?\n01:51 아날로그 어디갔어... 키오스크말고!\n04:06 피자 타임 갑니다🍕\n08:16 당장 맛보시죠😋\n09:34 🍕+🍺= 극락\n13:16 쿠키🍪 이벤트까지!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/KDaaV-0DeSo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/KDaaV-0DeSo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/KDaaV-0DeSo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/KDaaV-0DeSo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/KDaaV-0DeSo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "백종원 PAIK JONG WON",
 				"tags": [
-					"brian barczyk",
-					"legasea aquarium",
-					"legasea",
-					"legacy aquarium",
-					"aquarium",
-					"brian barczyk aquarium",
-					"brian barczyk the reptarium",
-					"brian barczyk proud",
-					"brian barczyk legacy",
-					"brian barczyk update",
-					"reptile army",
-					"michigan aquarium",
-					"michigan aquariums",
-					"brian barczyk aquariums",
-					"utica michigan",
-					"michigan news",
-					"newsworthy",
-					"update",
-					"videos",
-					"youtube home",
-					"video",
-					"brian barczyk videos",
-					"vlog",
-					"brian barczyk vlog",
-					"brian barczyk 2024"
+					"백종원",
+					"내꺼내먹",
+					"빽보이",
+					"피자",
+					"프랜차이즈",
+					"백종원맥주",
+					"피자가게",
+					"먹방",
+					"더본코리아",
+					"백종원피자",
+					"피맥",
+					"빽라거",
+					"포도버불",
+					"꿀배버블",
+					"배달의민족",
+					"벡종원",
+					"티엠씨엔터",
+					"paikboy",
+					"백보이",
+					"mukbang",
+					"백종원시장",
+					"백종원 먹방",
+					"백종원 예능"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ko",
+				"localized": {
+					"title": "[내꺼내먹_EP.1] 4트 만에... 피자 주문 성공했습니다. 사장님, 좀 나와 봐요",
+					"description": "#백종원 #내꺼내먹 #빽보이\n\n두구두구~~ 2024년 새해를 여는 첫 내꺼내먹! \n대망의 주인공은 \"빽보이피자\"입니다\n남녀노소 누구나 좋아하는 메뉴, 피자 아닐까요~~\n근데.. 언제 피자집을 차렸느냐고요?!\n어떻게 빽보이피자를 시작하게 됐는지 이야기 드릴게요!\n\n피자 토핑으로 뭘 올리면 좋을까.. 직원들이랑 연구 많이 했거든요\n그 중, 제 최애 피자는 뭘까 궁금하시죠?\n저와 같은 고기러버를 위한~~\n제~~대로 피자 맛있게 먹는 법도 알려드려요!\n\n※ 빽보이피자 할인 이벤트 ※ \n- 기간 : 2024년 1월 8일(월) ~ 1월 14일(일) \n- 내용 : 배달앱 '배달의 민족'에서 주문시, 4,000원 할인 쿠폰 제공\n- 빽보이피자X배민 프로모션 링크 \n(모바일에서만 링크 확인 가능합니다)\nhttps://baeminkr.onelink.me/XgL8/s01tvgd1\n\n*배달의 민족 앱 내 이벤트 페이지에서 4,000원 할인 쿠폰을 다운받을 수 있습니다\n*배달·포장·배민1 모두 할인 적용 가능합니다\n\n_\n00:00 인트로\n01:06 빽보이는 어떻게 태어났나요?\n01:51 아날로그 어디갔어... 키오스크말고!\n04:06 피자 타임 갑니다🍕\n08:16 당장 맛보시죠😋\n09:34 🍕+🍺= 극락\n13:16 쿠키🍪 이벤트까지!"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_YtsjBcMEiz4tMzEFj6EgDZx3O8",
+			"id": "WkO6BI1dH8A",
+			"snippet": {
+				"publishedAt": "2024-01-08T09:01:05Z",
+				"channelId": "UC3Tjj344taq3njy4yaK8ZWw",
+				"title": "가족에게 돌아가는 쌍둥이 언니에게 1000만원과 갈비찜 선물하는 우크라이나 아내",
+				"description": "각종 문의는 이메일로 부탁드립니다!\n- tllukianets@gmail.com",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/WkO6BI1dH8A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/WkO6BI1dH8A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/WkO6BI1dH8A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/WkO6BI1dH8A/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/WkO6BI1dH8A/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "한국사는따냐 Tanya in Korea",
+				"tags": [
+					"우크라이나#",
+					"동유럽처자#",
+					"국제커플#",
+					"Ukraine#",
+					"Internationalcouple#",
+					"외국인여자친구#",
+					"우크라이나여자친구#"
 				],
 				"categoryId": "22",
 				"liveBroadcastContent": "none",
 				"localized": {
-					"title": "Let's Make Dad Proud",
-					"description": "Noah Barczyk, the son of Brian Barczyk, shares an uplifting update about his father and his plans to advance and honor his dad's legacy in the future. \n#brianbarczyk #makedadproud #reptilearmy \n\nFollow Noah here: https://www.youtube.com/@UCzNBH8Ztsf5x7zHCdxJSE4A \n\nWe've received numerous requests from our compassionate followers seeking ways to support Brian and his loved ones. We're humbled by your generosity and have compiled a list of ways you can help:\n\n“Leave Your Legacy At LegaSea” Initiative: Become a part of Brian's vision by purchasing LegaSea Wall Plaques from The Reptarium: https://thereptarium.com/products/leg...\n\nReptarium Support Options: Explore various ways to support through Merchandise, Donations, and \nAnimal Ambassador Sponsorships at The Reptarium: https://thereptarium.com/collections/merch-gift-cards-sponsorships\n\nReptile Army Merchandise: Show your support by shopping at Reptile Army: https://reptilearmy.com/\n\nMore Ways to Support: Consider supporting through BHB Reptiles: https://www.bhbreptiles.com/ and Reptile Prime: https://reptileprime.com/\n\nYour support in any form is invaluable to us during this period. With heartfelt gratitude,\n\nThe crew.\n\nFollow Noah: https://www.instagram.com/barczyknoah/\nSubscribe To Brian's Linktree: https://linktr.ee/brianbarczyk\nBecome A YouTube Member & Get Your Custom Badge: https://www.youtube.com/channel/UC4zS1wbO81p59CxKL7CQAcA/join\n\nAbout Brian Barczyk:\nHi! I'm Brian Barczyk, and I have been daily vlogging on YouTube since May 10, 2016 sharing my amazing life filled with animals. My journey here on YouTube and social media has been truly magnificent and magical. Since 2016, I've been part of TV network series, produced my own documentary in South Africa, traveled the world to meet incredible animals and animal lovers, started a podcast, created a convention for animal content creators, built and expanded The Reptarium - an interactive reptile Zoo in Utica, Michigan and so much more. \n\nIn March 2023, just as we were ready to break ground on our expanded facility, I received a life-altering diagnosis of inoperable Pancreatic Cancer. Despite the challenges and my fears, the amazing community we've built on YouTube over the last 7+ years has kept me inspired to continue sharing my journey.\n\nNow, I'm fully committed to building our expanded facility, Legasea Aquarium & The Reptarium, just across the street. This project represents resilience and the pursuit of dreams in difficult times. With the incredible support of our community, the #ReptileArmy, we're turning obstacles into opportunities. Together, let's create a brighter future for reptiles and all animals, inspiring others to embrace their passions in the face of adversity.\n\nJoin us on this inspiring journey of discovery, conservation, and hope. Together, we'll make a lasting impact and celebrate the extraordinary animal world."
+					"title": "가족에게 돌아가는 쌍둥이 언니에게 1000만원과 갈비찜 선물하는 우크라이나 아내",
+					"description": "각종 문의는 이메일로 부탁드립니다!\n- tllukianets@gmail.com"
 				},
-				"defaultAudioLanguage": "en"
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_Hm0V5wLkg4OLI5eVWqfkBO3np4",
+			"id": "HJ92OZWU04I",
+			"snippet": {
+				"publishedAt": "2024-01-08T15:30:10Z",
+				"channelId": "UCCQPdv4o4ywVZQkAMOlvFbw",
+				"title": "삼성이 만든 투명 디스플레이, 이게 LG를 저격한 거라고? / 오목교 전자상가 in CES 2024",
+				"description": "삼성전자가 미국 라스베이거스에서 열리는 세계 최대 전자 전시회 ‘CES 2024’ 개막에 앞서, '삼성 퍼스트 룩 2024(Samsung First Look 2024)’ 이란 행사를 개최했습니다.  2024년형 Neo QLED 8K TV와 함께, Micro LED를 활용한 TV와 투명 디스플레이를 전시했는데요, OLED 방식에 비해 투과율이 훨씬 높은 모습을 보여줬습니다. 삼성전자가 CES에 앞서 준비한 행사의 이모저모를 오목교 전자상가 영상을 통해 확인해보세요! \n\n0:00 인트로\n0:20 삼성 사전 행사에 왔습니다!\n1:03 TV에서 온디바이스 AI가?\n1:49 AI 에너지 모드\n2:47 오디오 자막 기능\n3:16 AI 오토 게임 모드\n4:14 게이머를 위한 모니터\n5:12 삼성이 AI를 중시한 이유\n6:54 마이크로LED의 등장\n8:18 8K 프로젝터?!\n10:32 인테리어 꿀템 등장\n12:10 마무리\n7:16",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/HJ92OZWU04I/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/HJ92OZWU04I/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/HJ92OZWU04I/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/HJ92OZWU04I/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/HJ92OZWU04I/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "오목교 전자상가",
+				"tags": [
+					"오목교전자상가",
+					"오목교 전자상가",
+					"SBS",
+					"스브스뉴스",
+					"IT",
+					"테크",
+					"CES",
+					"삼성",
+					"TV",
+					"스크린",
+					"AI",
+					"칩",
+					"NPU",
+					"온디바이스",
+					"업스케일링",
+					"게임",
+					"FPS",
+					"RPG",
+					"OLED",
+					"LCD",
+					"QLED",
+					"디스플레이",
+					"프로젝터",
+					"스피커",
+					"인테리어"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "삼성이 만든 투명 디스플레이, 이게 LG를 저격한 거라고? / 오목교 전자상가 in CES 2024",
+					"description": "삼성전자가 미국 라스베이거스에서 열리는 세계 최대 전자 전시회 ‘CES 2024’ 개막에 앞서, '삼성 퍼스트 룩 2024(Samsung First Look 2024)’ 이란 행사를 개최했습니다.  2024년형 Neo QLED 8K TV와 함께, Micro LED를 활용한 TV와 투명 디스플레이를 전시했는데요, OLED 방식에 비해 투과율이 훨씬 높은 모습을 보여줬습니다. 삼성전자가 CES에 앞서 준비한 행사의 이모저모를 오목교 전자상가 영상을 통해 확인해보세요! \n\n0:00 인트로\n0:20 삼성 사전 행사에 왔습니다!\n1:03 TV에서 온디바이스 AI가?\n1:49 AI 에너지 모드\n2:47 오디오 자막 기능\n3:16 AI 오토 게임 모드\n4:14 게이머를 위한 모니터\n5:12 삼성이 AI를 중시한 이유\n6:54 마이크로LED의 등장\n8:18 8K 프로젝터?!\n10:32 인테리어 꿀템 등장\n12:10 마무리\n7:16"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "rPil_NhzkRKeb6fwMSPIPo2fQpE",
+			"id": "kDa65J1jBzE",
+			"snippet": {
+				"publishedAt": "2024-01-09T06:26:30Z",
+				"channelId": "UCCMQyaKDjQJY79VimTdaYYQ",
+				"title": "내일부터 싹 바뀌는 새 시즌 아이템 선택 가이드. OP템은 이미 정해져있다!",
+				"description": "안녕하세요 해도리입니다!\n\n24시즌 아이템 선택 기본 가이드입니다.\n\n앞으로도 신규 정보 계속해서 업데이트 할 예정입니다.\n\n'구독' 하시고 유익한 정보 꾸준히 받아보시길 바랍니다!\n\nbgm : universal (유튜브 배포)",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kDa65J1jBzE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kDa65J1jBzE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kDa65J1jBzE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/kDa65J1jBzE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/kDa65J1jBzE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "롤박사 해도리",
+				"tags": [
+					"LOL",
+					"lol",
+					"리그오브레전드",
+					"엘오엘",
+					"스킬",
+					"장인",
+					"롤 패치",
+					"롤 패치노트",
+					"롤박사 해도리",
+					"해도리",
+					"pbe",
+					"pbe 패치노트",
+					"리메이크",
+					"롤 pbe 패치노트",
+					"롤 매드무비",
+					"lck",
+					"롤챔스",
+					"페이커",
+					"롤드컵",
+					"롤 시즌9",
+					"시즌9",
+					"원딜",
+					"롤 배치",
+					"롤 랭크",
+					"롤 강의",
+					"롤 영상",
+					"루시안",
+					"사일러스",
+					"아칼리",
+					"T1",
+					"프리시즌",
+					"롤 프리시즌",
+					"신화급",
+					"롤 신화급",
+					"신챔프",
+					"신챔프 브라이어",
+					"신화급 아이템",
+					"부쉬 패치",
+					"롤 부쉬",
+					"롤 시야",
+					"소환사의 협곡",
+					"소환사의 협곡 리메이크",
+					"프리시즌 패치",
+					"협곡 패치",
+					"롤 공허",
+					"공허 협곡",
+					"롤 아이템",
+					"롤 신규 아이템",
+					"롤 신템",
+					"24시즌",
+					"롤 24시즌",
+					"롤 아이템 패치",
+					"롤 대격변",
+					"스몰더",
+					"신챔",
+					"신챔프 스몰더"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "내일부터 싹 바뀌는 새 시즌 아이템 선택 가이드. OP템은 이미 정해져있다!",
+					"description": "안녕하세요 해도리입니다!\n\n24시즌 아이템 선택 기본 가이드입니다.\n\n앞으로도 신규 정보 계속해서 업데이트 할 예정입니다.\n\n'구독' 하시고 유익한 정보 꾸준히 받아보시길 바랍니다!\n\nbgm : universal (유튜브 배포)"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "t1XII7XO2_mONqCgz_7bvKhqKrA",
+			"id": "6FA6KvaOzzk",
+			"snippet": {
+				"publishedAt": "2024-01-08T10:29:25Z",
+				"channelId": "UCQabORQKQRHP-iUqe-xIFvg",
+				"title": "미국 Z세대가 아이폰보다 갖고 싶어 한다는 텀블러의 정체 / 스브스뉴스",
+				"description": "요즘 미국 Z세대들이 갖고 싶어 하는 선물 중 하나가 스탠리 텀블러라는 사실 알고 계셨나요?\n\n최근 많은 인플루언서가 스탠리 텀블러를 SNS에 올리며 그 인기가 더욱 높아졌는데요.\n\n3일(현지시간) 뉴욕타임스 등 현지 매체에 따르면 스타벅스와 함께 출시한\n스탠리 '핑크' 텀블러가 품절 대란을 일으키며 고가에 거래되고 있다고 전하기도 했습니다.\n\n스탠리 텀블러는 왜 갑자기 유행인 걸까요? 스브스뉴스가 알아봤습니다.\n\n\n✔ 뉴스에는 위아래가 없다, 스브스뉴스\n\n\n- 비즈니스 문의 -\n브랜디드 콘텐츠 기획/제작 문의: branded@sbs.co.kr\n기업/브랜드 채널 컨설팅 및 기획/제작 문의: solution@sbs.co.kr\n\n- 링크 -\n175 플래닛 : https://175planet.com/\nInstagram :  https://www.instagram.com/subusunews\nFacebook :  https://www.facebook.com/subusunews\n홈페이지 : https://news.sbs.co.kr/news/subusuNews.do?plink=GNB&cooper=SBSNEWS\n\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6FA6KvaOzzk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6FA6KvaOzzk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6FA6KvaOzzk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/6FA6KvaOzzk/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/6FA6KvaOzzk/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "스브스뉴스 SUBUSUNEWS",
+				"tags": [
+					"스탠리",
+					"텀블러",
+					"미국",
+					"Z세대",
+					"리셀가",
+					"유행",
+					"인플루언서"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "미국 Z세대가 아이폰보다 갖고 싶어 한다는 텀블러의 정체 / 스브스뉴스",
+					"description": "요즘 미국 Z세대들이 갖고 싶어 하는 선물 중 하나가 스탠리 텀블러라는 사실 알고 계셨나요?\n\n최근 많은 인플루언서가 스탠리 텀블러를 SNS에 올리며 그 인기가 더욱 높아졌는데요.\n\n3일(현지시간) 뉴욕타임스 등 현지 매체에 따르면 스타벅스와 함께 출시한\n스탠리 '핑크' 텀블러가 품절 대란을 일으키며 고가에 거래되고 있다고 전하기도 했습니다.\n\n스탠리 텀블러는 왜 갑자기 유행인 걸까요? 스브스뉴스가 알아봤습니다.\n\n\n✔ 뉴스에는 위아래가 없다, 스브스뉴스\n\n\n- 비즈니스 문의 -\n브랜디드 콘텐츠 기획/제작 문의: branded@sbs.co.kr\n기업/브랜드 채널 컨설팅 및 기획/제작 문의: solution@sbs.co.kr\n\n- 링크 -\n175 플래닛 : https://175planet.com/\nInstagram :  https://www.instagram.com/subusunews\nFacebook :  https://www.facebook.com/subusunews\n홈페이지 : https://news.sbs.co.kr/news/subusuNews.do?plink=GNB&cooper=SBSNEWS\n\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지"
+				},
+				"defaultAudioLanguage": "ko"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "Ny6RmZKsr3mQH0b92LyMnlv1L2w",
+			"id": "0ld9deREtnE",
+			"snippet": {
+				"publishedAt": "2024-01-09T11:25:00Z",
+				"channelId": "UCnY8QXU95EhOiPj30e9Maqg",
+				"title": "[나병관 레슨] 꿈의 비거리, 임팩트를 절대 예상하고 치지 마라｜무릎 탁 레슨 #1",
+				"description": "#나병관레슨 #무릎탁레슨 #탈골스윙 #골프레슨 #SBS골프레슨 #SBSGOLF2 #골프_기적의레슨 #김민아 #드라이버_비거리",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0ld9deREtnE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0ld9deREtnE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0ld9deREtnE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/0ld9deREtnE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/0ld9deREtnE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "SBS Golf 레슨",
+				"tags": [
+					"GOLF",
+					"골프",
+					"SBS골프",
+					"SBSGOLF",
+					"SBS골프레슨",
+					"골프레슨",
+					"드라이버샷",
+					"아이언샷",
+					"어프로치샷",
+					"비거리",
+					"LESSON",
+					"퍼트",
+					"장타",
+					"골프스윙",
+					"벙커샷",
+					"유틸리티",
+					"하이브리드",
+					"코킹",
+					"백스윙",
+					"임팩트"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "[나병관 레슨] 꿈의 비거리, 임팩트를 절대 예상하고 치지 마라｜무릎 탁 레슨 #1",
+					"description": "#나병관레슨 #무릎탁레슨 #탈골스윙 #골프레슨 #SBS골프레슨 #SBSGOLF2 #골프_기적의레슨 #김민아 #드라이버_비거리"
+				},
+				"defaultAudioLanguage": "ko"
 			}
 		}
 	],

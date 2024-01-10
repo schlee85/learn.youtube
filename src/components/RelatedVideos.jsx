@@ -14,12 +14,14 @@ export default function RelatedVideos({ channelId }) {
 		queryFn: () => youtube.relatedVideos(channelId),
 	});
 
+	console.log(videos);
+
 	return (
 		<>
 			{isLoading && <p>Loading...</p>}
 			{error && <p>ERROR!</p>}
 			{videos && (
-				<ul>
+				<ul className="ml-6">
 					{videos.map((video) => (
 						<VideoCard key={video.id} video={video} type="list" />
 					))}

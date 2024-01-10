@@ -9,14 +9,15 @@ body {
 		sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	@apply flex flex-col items-center;
 	@apply bg-zinc-900 text-gray-50;
 }
 
 #root {
 	@apply w-full max-w-screen-2xl;
+	padding-top: 100px;
 }
 
 code {

@@ -46,6 +46,7 @@ export default class Youtube {
 					part: 'snippet',
 					maxResults: 25,
 					chart: 'mostPopular',
+					regionCode: 'kr',
 				},
 			})
 			.then((res) => res.data.items);
