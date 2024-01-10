@@ -1,8 +1,8 @@
 # 유튜브 클론 코딩
 
-드림코딩 강의를 바탕으로 제작.
-
-URL : https://stupendous-khapse-106ab1.netlify.app/
+- 드림코딩 강의를 바탕으로 제작.
+- URL :
+  <a href="https://stupendous-khapse-106ab1.netlify.app/" target="_blank">https://stupendous-khapse-106ab1.netlify.app/</a>
 
 <br>
 
@@ -10,7 +10,7 @@ URL : https://stupendous-khapse-106ab1.netlify.app/
 
 ### `react-router-dom` (6.21.1)
 
-https://reactrouter.com/en/main
+<a href="https://reactrouter.com/en/main" target="_blank">https://reactrouter.com/en/main</a>
 
 ```
 yarn add react-router-dom
@@ -18,7 +18,7 @@ yarn add react-router-dom
 
 ### `react-query` (5.17.9)
 
-https://tanstack.com/query/latest
+<a href="https://tanstack.com/query/latest" target="_blank">https://tanstack.com/query/latest</a>
 
 ```
 yarn add @tanstack/react-query
@@ -26,7 +26,7 @@ yarn add @tanstack/react-query
 
 ### `axios` (1.6.5)
 
-https://github.com/axios/axios
+<a href="https://github.com/axios/axios" target="_blank">https://github.com/axios/axios</a>
 
 ```
 yarn add axios
@@ -34,7 +34,7 @@ yarn add axios
 
 ### `timeago.js` (4.0.2)
 
-https://github.com/hustcc/timeago.js/blob/master/README.md
+<a href="https://github.com/hustcc/timeago.js/blob/master/README.md" target="_blank">https://github.com/hustcc/timeago.js/blob/master/README.md</a>
 
 ```
 yarn add timeago.js
@@ -42,7 +42,7 @@ yarn add timeago.js
 
 ### `react-icons` (4.12.0)
 
-https://react-icons.github.io/react-icons/
+<a href="https://react-icons.github.io/react-icons/" target="_blank">https://react-icons.github.io/react-icons/</a>
 
 ```
 yarn add react-icons
@@ -50,7 +50,7 @@ yarn add react-icons
 
 ### `tailwindcss` (3.4.1)
 
-https://tailwindcss.com/
+<a href="https://tailwindcss.com/" target="_blank">https://tailwindcss.com/</a>
 
 ```
 yarn add tailwindcss -D
